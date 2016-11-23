@@ -1,0 +1,5 @@
+ADD
+LEA
+INC
+XADD
+DAA

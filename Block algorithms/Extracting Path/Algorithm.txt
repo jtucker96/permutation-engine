@@ -1,0 +1,6 @@
+ - Using engine decide if GetModuleHandle API already been called? 
+
+YES - Refer to variable (m_hInstance generated)
+NO  - call it, set engine as called
+
+- 

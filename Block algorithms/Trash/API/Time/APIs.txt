@@ -1,0 +1,40 @@
+-- Sys time --
+GetSystemTime
+GetSystemTimeAdjustment
+GetTimeFormat
+NtQuerySystemTime
+RtlLocalTimeToSystemTime
+RtlTimeToSecondsSince1970
+SetSystemTime
+SetSystemTimeAdjustment
+SystemTimeToFileTime
+SystemTimeToTzSpecificLocalTime
+TzSpecificLocalTimeToSystemTime
+-- Local Time --
+EnumDynamicTimeZoneInformation
+FileTimeToLocalFileTime
+GetDynamicTimeZoneInformation
+GetDynamicTimeZoneInformationEfectiveYears
+GetLocalTime
+GetTimeZoneInformation
+GetTimeZoneInformationForYear
+RtlLocalTimeToSystemTime
+SetDynamicTimeZoneInformation
+SetLocalTime
+SetTimeZoneInformation
+SystemTimeToTzSpecificLocalTime
+SystemTimeToTzSpecificLocalTimeEx
+--File Time--
+CompareFileTime
+FileTimeToLocalFileTime
+GetFileTime
+--Windows Time--
+GetSystemTimes
+GetTickCount
+GetTickCount64
+
+
+
+
+
+http://msdn.microsoft.com/en-us/library/windows/desktop/ms725473(v=vs.85).aspx

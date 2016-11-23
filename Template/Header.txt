@@ -1,0 +1,2 @@
+format PE CONSOLE 4.0
+entry start

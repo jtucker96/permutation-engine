@@ -1,0 +1,9 @@
+CloseServiceHandle
+ControlService
+ControlServiceEx
+CreateService
+CreateServiceEx
+DeleteService
+OpenService
+QueryServiceConfig
+StartService

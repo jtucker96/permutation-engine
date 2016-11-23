@@ -1,0 +1,6 @@
+DIV
+IDIV
+MUL
+IMUL
+INC
+DEC

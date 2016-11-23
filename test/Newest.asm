@@ -1,0 +1,3809 @@
+format PE CONSOLE 4.0
+entry start
+include 'win32ax.inc'
+section '.data' readable writeable
+rYiPwgJPBgltP db 50
+CPkLjKVPzWOn dw 50
+dEWjSzRzstL db 50
+xXkPVdKBw db 50
+ZhdWMuZIi dw 50
+uHwOzZSpyZ db 50
+LOMtUFLQm db 50
+kMYCTI db 50
+sczACNd dd 50
+wWCPCN dw 50
+kBSiKEmhJpOs dw 50
+SxSPIEp dw 50
+OsVCoMU dw 50
+IEgxozxZLT dd 50
+XzDGIndDU db 50
+VfdztiRgwtiYKC db 50
+HTFbHCRWMmTaDX dw 50
+QUYpLNZrBUUm dd 50
+ScTghaTVXUnJV db 50
+KzdqoL dw 50
+qGzVfPjSXJ dd 50
+IOkDjJeRumBg dw 50
+BncEEkZvZUOpg dw 50
+fBMyjZMqdqF dw 50
+rFjbxOmMtqZRYj dd 50
+ikoFcsgiPPbfji dw 50
+hhvYRaMWngTbHb dd 50
+OonnWNlOqIJJoq db 50
+MhwByhcPkSHB dw 50
+QBDTNpVN db 50
+RxfBmAdCaqw db 50
+ibtveN db 50
+OklssdaYPqwhk dw 50
+bTpfniLbkr db 50
+wsmczrN db 50
+LFMrTaXAV db 50
+GKXHMIx dw 50
+KWSkBGWBSqf dw 50
+xOZJfLFQI dd 50
+bTBWVMMFKphYae db 50
+FtNPNvI dw 50
+uzKXEtOkP dd 50
+yKVPmetLUBqJ dw 50
+PQXpOZEuMCCfD db 50
+IEgunjt dw 50
+HqoYjIIw db 50
+MYBCRnlML dw 50
+UvzljCLLOw db 50
+gIpCkcPwNnxPPb dw 50
+RMvggFF db 50
+wJykFe dd 50
+GlccMbEQbjt dd 50
+cLMxJDARK dd 50
+kcbqFkThDDzWy dw 50
+odhRraGWG dd 50
+yhVQJZcxlKmOJT db 50
+ClwXJwv dd 50
+rnPpGuES dd 50
+spCQvpbOTIV dd 50
+lhZItyytcMrq db 50
+UgMhIUWE db 50
+sIyIiXFei db 50
+nbaIbQU db 50
+AxXJspWqnAFfw db 50
+message db 'Hello niggers'
+section '.code' executable readable writeable
+start:
+PUSHA
+PUSH EDI
+LEA AX, [CPkLjKVPzWOn]
+XCHG [OklssdaYPqwhk], AX
+CLC
+MOV AX, AX
+
+stdcall oVjHwhAdKaA
+
+LEA EBX, [qGzVfPjSXJ]
+
+PUSH EDX
+LEA AX, [wWCPCN]
+LEA AX, [wWCPCN]
+STD
+PUSHF
+XCHG [VfdztiRgwtiYKC], CH
+stdcall mjUuigSpDuboB, ESI, EDX, DWORD [OonnWNlOqIJJoq], DWORD [yhVQJZcxlKmOJT], DWORD [ScTghaTVXUnJV]
+LEA AX, [OklssdaYPqwhk]
+
+CBW
+CLC
+IMUL AX
+LEA EAX, [wJykFe]
+MOV EAX, 20
+POP EAX
+stdcall bdiRiQIcDTn
+PUSHA
+
+SAL [xOZJfLFQI], 15
+stdcall aIWvbvDDW, EBX, EDI
+CWD
+PUSHA
+stdcall AhFqMwXm, DWORD [gIpCkcPwNnxPPb]
+
+PUSH EAX
+LEA EBX, [sczACNd]
+stdcall fpRbYpteIXG, ESI
+
+MOV [kMYCTI], AL
+NEG [xXkPVdKBw]
+NEG AX
+
+SAR [UvzljCLLOw], 6
+NOT [odhRraGWG]
+NOT [rYiPwgJPBgltP]
+stdcall dTWcrjDsyoSYTu
+stdcall LUXYDHHpJOZEnC, DWORD [UgMhIUWE]
+POP EAX
+XCHG CL, CH
+INC DL
+LEA AX, [IEgunjt]
+NOT [bTpfniLbkr]
+INC AX
+MOV [ClwXJwv], qGzVfPjSXJ
+PUSH EAX
+
+STC
+stdcall wiLsHcceq, EBX
+stdcall ukuYMtRCmUDJEI
+POP EDI
+SAL [yKVPmetLUBqJ], 14
+MOV EDI, [QUYpLNZrBUUm]
+PUSHA
+LEA EBX, [qGzVfPjSXJ]
+NEG [XzDGIndDU]
+stdcall fUnxQYhu, ECX, EDX, DWORD [dEWjSzRzstL]
+DEC AX
+MOV EAX, 20
+IMUL AX
+
+LEA AX, [kBSiKEmhJpOs]
+XCHG [fBMyjZMqdqF], AX
+POP EAX
+MUL AX
+LEA AX, [fBMyjZMqdqF]
+PUSHA
+XCHG AX, BX
+
+MOV EAX, 20
+stdcall ukuYMtRCmUDJEI
+MOV EAX, 20
+PUSHF
+
+MOV [MhwByhcPkSHB], AX
+NOT [fBMyjZMqdqF]
+PUSH ECX
+NOT AX
+stdcall oVjHwhAdKaA
+LEA ESI, [rFjbxOmMtqZRYj]
+
+LEA AX, [SxSPIEp]
+DEC [ikoFcsgiPPbfji]
+PUSHF
+ADC [rnPpGuES], ESI
+LEA EDX, [GlccMbEQbjt]
+MOV EBX, EDI
+POP EBX
+XCHG [IEgxozxZLT], ESI
+RCL EBX, 2
+MOV EAX, 20
+NEG CH
+LEA ESI, [spCQvpbOTIV]
+LEA AX, [ikoFcsgiPPbfji]
+DEC CL
+POP EDX
+MUL AL
+POP ECX
+CWD
+
+LEA AX, [kcbqFkThDDzWy]
+MOV [BncEEkZvZUOpg], AX
+MUL CH
+CBW
+
+
+stdcall oVjHwhAdKaA
+MOV EAX, 20
+XCHG [lhZItyytcMrq], AH
+POP EDX
+stdcall aIWvbvDDW, EBX, DWORD [MYBCRnlML]
+IMUL EDI
+NEG DL
+XCHG DH, [AxXJspWqnAFfw]
+PUSH EAX
+stdcall XudDogi, DWORD [xOZJfLFQI], DWORD [ikoFcsgiPPbfji]
+NEG AX
+ROR [wsmczrN], 5
+CWDE
+NEG [wJykFe]
+XCHG AX, [SxSPIEp]
+
+MUL [dEWjSzRzstL]
+XCHG AX, DI
+MOV EAX, 20
+INC BH
+XADD [IEgxozxZLT], EDX
+IMUL EDI
+DEC BH
+MUL AX
+stdcall fUnxQYhu, DWORD [yKVPmetLUBqJ], EBX, DWORD [LOMtUFLQm]
+PUSH ECX
+PUSHF
+ROR [SxSPIEp], 15
+
+MUL [odhRraGWG]
+MOV [sczACNd], uzKXEtOkP
+PUSHA
+MOV AH, AL
+LEA AX, [gIpCkcPwNnxPPb]
+MOV CH, DH
+XCHG [QUYpLNZrBUUm], ECX
+XCHG AX, CX
+NEG ECX
+DEC [spCQvpbOTIV]
+INC [dEWjSzRzstL]
+PUSHF
+stdcall ObPNJLHeIfKlA
+NOT [HqoYjIIw]
+NEG CH
+LEA EDI, [uzKXEtOkP]
+LEA EDX, [hhvYRaMWngTbHb]
+NEG ESI
+DEC [ZhdWMuZIi]
+LEA AX, [FtNPNvI]
+
+stdcall JYYLguCO
+PUSHA
+POP EDI
+CLC
+SBB ESI, [rFjbxOmMtqZRYj]
+POP EDX
+INC [QUYpLNZrBUUm]
+POP EAX
+NEG CH
+STD
+CBW
+XADD AX, AX
+
+MOV [ScTghaTVXUnJV], BH
+SAR AX, 3
+CLC
+NEG [QUYpLNZrBUUm]
+MOV [rYiPwgJPBgltP], BL
+LEA AX, [KWSkBGWBSqf]
+LEA AX, [KzdqoL]
+PUSH ESI
+
+XADD AX, AX
+POP EBX
+stdcall PXkFjZDXNhcsft, EDX, EDI, DWORD [IEgunjt]
+
+NEG BL
+XCHG [VfdztiRgwtiYKC], AH
+LEA AX, [ZhdWMuZIi]
+LEA EAX, [rFjbxOmMtqZRYj]
+XCHG DL, [OonnWNlOqIJJoq]
+NEG EAX
+LEA EDI, [GlccMbEQbjt]
+PUSHA
+POP EDI
+MOV [xOZJfLFQI], EAX
+stdcall WNqpnXGsF, EDX
+SBB EBX, [rFjbxOmMtqZRYj]
+
+RCR AX, 3
+stdcall yzTuYNY, DWORD [HTFbHCRWMmTaDX], DWORD [ScTghaTVXUnJV]
+SAR EDX, 11
+stdcall mdTrePVrLog
+stdcall JYYLguCO
+INC [qGzVfPjSXJ]
+LEA ECX, [sczACNd]
+INC [qGzVfPjSXJ]
+stdcall OpsFQBOdBx, EAX, DWORD [AxXJspWqnAFfw], DWORD [rYiPwgJPBgltP]
+NOT CH
+
+NEG [xXkPVdKBw]
+LEA EBX, [spCQvpbOTIV]
+NEG AX
+stdcall fpRbYpteIXG, ESI
+NEG [OonnWNlOqIJJoq]
+
+
+NOT [GlccMbEQbjt]
+LEA AX, [gIpCkcPwNnxPPb]
+PUSH EBX
+
+
+XCHG [yhVQJZcxlKmOJT], BH
+NOT [sIyIiXFei]
+
+NOT DH
+PUSHA
+NEG AX
+CMP [lhZItyytcMrq], AL
+ADD [FtNPNvI], AX
+POP EAX
+XCHG [IEgunjt], AX
+stdcall oVjHwhAdKaA
+
+IMUL EDI
+CLC
+LEA AX, [KzdqoL]
+PUSH EAX
+MUL BH
+NEG EDI
+MOV EAX, 20
+LEA AX, [MYBCRnlML]
+LEA ESI, [wJykFe]
+XCHG [OonnWNlOqIJJoq], BL
+NEG [HTFbHCRWMmTaDX]
+CLD
+CMC
+stdcall oVjHwhAdKaA
+MOV EBX, EDX
+NEG [hhvYRaMWngTbHb]
+
+XCHG EDI, [QUYpLNZrBUUm]
+NEG DH
+LEA EDI, [qGzVfPjSXJ]
+XADD BH, DH
+RCL [RxfBmAdCaqw], 7
+MOV AX, AX
+XCHG [MhwByhcPkSHB], AX
+LEA AX, [CPkLjKVPzWOn]
+LEA EAX, [xOZJfLFQI]
+stdcall PXkFjZDXNhcsft, EBX, ECX, EBX
+CWD
+PUSH ESI
+
+DEC [ScTghaTVXUnJV]
+SAR [AxXJspWqnAFfw], 5
+INC [RMvggFF]
+PUSH EDX
+LEA AX, [KzdqoL]
+LEA AX, [GKXHMIx]
+
+NOT EBX
+XCHG EAX, [hhvYRaMWngTbHb]
+INC EAX
+stdcall rRxjqAzGy
+NEG [wJykFe]
+NOT [spCQvpbOTIV]
+XADD EAX, EAX
+PUSH EDI
+stdcall WNqpnXGsF, DWORD [sczACNd]
+MOV EAX, 20
+PUSHF
+
+CLC
+CLD
+
+ADD [rYiPwgJPBgltP], AL
+NEG CL
+MOV EAX, 20
+stdcall kvOrvnqN
+NEG BH
+stdcall hijIav, DWORD [GlccMbEQbjt]
+NOT [VfdztiRgwtiYKC]
+POP EDI
+MOV EAX, 20
+INC [qGzVfPjSXJ]
+XCHG [nbaIbQU], AH
+MUL [SxSPIEp]
+XCHG AL, CL
+PUSH ECX
+SAL AX, 2
+stdcall fpRbYpteIXG, EDX
+RCL BH, 6
+NOT CL
+XADD [IOkDjJeRumBg], AX
+NOT AH
+MOV AL, CH
+stdcall NbLQgcFlI, DWORD [nbaIbQU], EDX, ECX, ESI, DWORD [PQXpOZEuMCCfD]
+LEA EBX, [ClwXJwv]
+SAR [QBDTNpVN], 1
+
+MUL EDI
+POP EBX
+SAL [BncEEkZvZUOpg], 1
+NEG BL
+stdcall GKaglu
+CBW
+
+NEG [kBSiKEmhJpOs]
+INC AX
+XCHG [IEgunjt], AX
+stdcall XudDogi, ESI, DWORD [LFMrTaXAV]
+NEG CL
+CLD
+stdcall zqRcWtRnZZBQHm, EBX, DWORD [uHwOzZSpyZ], EAX, DWORD [dEWjSzRzstL], EBX
+LEA ESI, [xOZJfLFQI]
+CMC
+CWD
+
+POP EBX
+stdcall GPSDkCBiH
+RCR AX, 5
+STD
+SBB [xOZJfLFQI], sczACNd
+PUSH EDI
+MOV EBX, [ClwXJwv]
+NOT AX
+XCHG DL, DH
+stdcall PXkFjZDXNhcsft, EDI, EBX, ECX
+LEA AX, [gIpCkcPwNnxPPb]
+IMUL ESI
+
+MOV [wWCPCN], AX
+MUL [RxfBmAdCaqw]
+LEA EDI, [spCQvpbOTIV]
+MOV [nbaIbQU], AH
+PUSHA
+NEG EAX
+ROL [rYiPwgJPBgltP], 3
+LEA AX, [ikoFcsgiPPbfji]
+LEA ECX, [rFjbxOmMtqZRYj]
+RCL [lhZItyytcMrq], 7
+stdcall MjCzfV
+stdcall hijIav, DWORD [uHwOzZSpyZ]
+MOV AX, AX
+NEG [ibtveN]
+XCHG AX, BX
+NEG [PQXpOZEuMCCfD]
+stdcall fUnxQYhu, EDX, DWORD [QBDTNpVN], DWORD [wJykFe]
+PUSH EDI
+ADD [fBMyjZMqdqF], AX
+
+stdcall jHtFnqkI
+IMUL AX
+PUSH EDX
+XCHG [HqoYjIIw], DH
+DEC EDI
+PUSH EDI
+NEG AH
+PUSH EBX
+SAR DL, 6
+
+NEG EAX
+ROR [rFjbxOmMtqZRYj], 15
+DEC EDI
+POP ESI
+CLD
+NOT EDI
+CLC
+stdcall hijIav, DWORD [OklssdaYPqwhk]
+MUL [uzKXEtOkP]
+CMC
+LEA EDI, [rFjbxOmMtqZRYj]
+stdcall zqRcWtRnZZBQHm, DWORD [wJykFe], DWORD [KWSkBGWBSqf], EAX, EDX, DWORD [uHwOzZSpyZ]
+stdcall fUnxQYhu, DWORD [QUYpLNZrBUUm], DWORD [ikoFcsgiPPbfji], EBX
+PUSH EAX
+MOV AX, AX
+LEA AX, [kcbqFkThDDzWy]
+stdcall rUacPb
+CMP [yhVQJZcxlKmOJT], AL
+MOV AX, AX
+ADC [wJykFe], ECX
+stdcall OpsFQBOdBx, EDI, DWORD [BncEEkZvZUOpg], ECX
+NEG [ibtveN]
+stdcall NbLQgcFlI, ESI, EAX, ECX, DWORD [rYiPwgJPBgltP], EBX
+ROL DL, 6
+MOV EAX, 20
+RCL [RxfBmAdCaqw], 6
+LEA AX, [kBSiKEmhJpOs]
+stdcall SJBkLokSNqd
+LEA ECX, [spCQvpbOTIV]
+POP EDX
+LEA AX, [MYBCRnlML]
+XCHG [hhvYRaMWngTbHb], EAX
+ROR AX, 1
+MOV [hhvYRaMWngTbHb], ESI
+PUSHA
+LEA ESI, [GlccMbEQbjt]
+
+PUSH EBX
+LEA AX, [IEgunjt]
+stdcall qPDvotYj, DWORD [kMYCTI], DWORD [RxfBmAdCaqw], DWORD [KWSkBGWBSqf], DWORD [odhRraGWG]
+MOV [rYiPwgJPBgltP], CL
+XCHG [KWSkBGWBSqf], AX
+POP EAX
+SUB AX, AX
+MOV [bTpfniLbkr], AH
+LEA AX, [HTFbHCRWMmTaDX]
+
+SAR [dEWjSzRzstL], 4
+
+STC
+
+NEG AX
+
+stdcall VNjpPZsjhvH
+IMUL BL
+NEG CL
+RCL CH, 2
+SAL AL, 1
+
+NOT [qGzVfPjSXJ]
+MOV EDI, EDX
+POP ESI
+MUL [VfdztiRgwtiYKC]
+
+XCHG EDX, EAX
+INC CH
+
+
+MOV [ikoFcsgiPPbfji], AX
+LEA AX, [IEgunjt]
+
+POP EBX
+CWDE
+NEG ESI
+stdcall mdTrePVrLog
+
+MUL [kMYCTI]
+NEG [odhRraGWG]
+NEG AX
+XCHG AX, [SxSPIEp]
+NEG [odhRraGWG]
+MOV EAX, 20
+stdcall XudDogi, EAX, EDX
+stdcall oVjHwhAdKaA
+stdcall fpRbYpteIXG, DWORD [MYBCRnlML]
+INC AX
+
+CMP [ScTghaTVXUnJV], AL
+IMUL EAX
+
+
+LEA AX, [ZhdWMuZIi]
+DEC BL
+NOT [LOMtUFLQm]
+NEG [KWSkBGWBSqf]
+PUSH ESI
+SAR EBX, 22
+STC
+ADD [fBMyjZMqdqF], AX
+LEA AX, [wWCPCN]
+SAL EDX, 30
+
+XADD [uzKXEtOkP], EDI
+stdcall mYWOVpKt
+CWDE
+ROR [nbaIbQU], 6
+stdcall uaAOfwWXODsC
+stdcall lmJTbs
+NEG CH
+MOV EAX, 20
+INC ESI
+
+stdcall ObPNJLHeIfKlA
+MOV AX, AX
+CBW
+NEG [IEgunjt]
+
+stdcall VjpIma, DWORD [ScTghaTVXUnJV], ESI, DWORD [sIyIiXFei], EBX
+CLD
+stdcall wiLsHcceq, DWORD [odhRraGWG]
+LEA AX, [IEgunjt]
+LEA AX, [HTFbHCRWMmTaDX]
+XADD DH, AH
+stdcall AhFqMwXm, DWORD [VfdztiRgwtiYKC]
+stdcall fpRbYpteIXG, DWORD [yhVQJZcxlKmOJT]
+XCHG [GlccMbEQbjt], EBX
+stdcall mjUuigSpDuboB, EDX, DWORD [qGzVfPjSXJ], EAX, DWORD [kcbqFkThDDzWy], EAX
+IMUL EAX
+MOV ECX, [xOZJfLFQI]
+CLC
+XCHG AX, BX
+LEA EDI, [uzKXEtOkP]
+NEG CH
+
+CBW
+NEG [kMYCTI]
+LEA ECX, [wJykFe]
+IMUL AX
+PUSH EAX
+
+POP EDX
+
+NEG [fBMyjZMqdqF]
+
+stdcall mdTrePVrLog
+stdcall JYYLguCO
+NOT AX
+stdcall mYWOVpKt
+NEG EBX
+MOV [cLMxJDARK], EDX
+LEA EDX, [uzKXEtOkP]
+MOV EAX, 20
+stdcall mYWOVpKt
+POP EDX
+LEA AX, [MYBCRnlML]
+
+RCL AX, 15
+SAR EDX, 10
+ADD ESI, EBX
+LEA ECX, [QUYpLNZrBUUm]
+ROL [IEgxozxZLT], 18
+POP EAX
+CMC
+stdcall ukuYMtRCmUDJEI
+LEA ESI, [wJykFe]
+LEA EDI, [cLMxJDARK]
+
+
+
+
+MOV [OsVCoMU], AX
+
+
+PUSHA
+
+CWDE
+ROR [bTpfniLbkr], 5
+NEG [MYBCRnlML]
+CWDE
+XCHG AX, DI
+POP EAX
+INC [ClwXJwv]
+MOV [uHwOzZSpyZ], CL
+stdcall rRxjqAzGy
+MOV EAX, 20
+POP ECX
+LEA AX, [IOkDjJeRumBg]
+stdcall NbLQgcFlI, ESI, DWORD [bTpfniLbkr], DWORD [SxSPIEp], DWORD [KzdqoL], DWORD [lhZItyytcMrq]
+
+
+RCR [OklssdaYPqwhk], 14
+NEG EDI
+MOV AX, AX
+POP EDI
+PUSH EDX
+ADD CL, BH
+stdcall MjCzfV
+MOV EAX, 20
+XCHG [MYBCRnlML], AX
+MOV AX, AX
+ROL EAX, 3
+LEA AX, [fBMyjZMqdqF]
+XCHG [rFjbxOmMtqZRYj], ESI
+NEG EAX
+PUSHA
+LEA EDI, [odhRraGWG]
+stdcall fkhisstsPy
+NOT BL
+MOV EAX, 20
+MOV CL, CL
+
+ADC [UvzljCLLOw], BL
+
+stdcall JYYLguCO
+PUSHA
+
+
+STC
+STD
+SUB CL, CL
+NOT ECX
+XADD BL, AH
+ADC [kMYCTI], CL
+LEA EBX, [hhvYRaMWngTbHb]
+XCHG [dEWjSzRzstL], BH
+ROL [gIpCkcPwNnxPPb], 3
+
+POP ECX
+
+POP ESI
+MUL EDI
+POP ECX
+stdcall XudDogi, ESI, DWORD [SxSPIEp]
+MOV EBX, [rnPpGuES]
+MOV [ibtveN], DL
+SBB [BncEEkZvZUOpg], AX
+stdcall GSikAOA
+NEG AX
+MOV AX, AX
+
+MOV [sIyIiXFei], CL
+MOV [cLMxJDARK], EDI
+STD
+stdcall pbeYkwVkpwTuMS
+ADD AX, AX
+
+XCHG [uzKXEtOkP], EDX
+
+stdcall oVjHwhAdKaA
+SAR [SxSPIEp], 14
+
+CMP AL, DL
+NEG [ZhdWMuZIi]
+stdcall SJBkLokSNqd
+ADC AX, [OsVCoMU]
+MOV [uzKXEtOkP], xOZJfLFQI
+CWDE
+
+stdcall pujryKmtWuXyT, DWORD [qGzVfPjSXJ], EAX, DWORD [dEWjSzRzstL], EAX
+stdcall NDgipJxnq, DWORD [yKVPmetLUBqJ], ECX, DWORD [kBSiKEmhJpOs], DWORD [ScTghaTVXUnJV], EAX
+stdcall pZpbnQKbunGCi
+MOV [QBDTNpVN], AL
+
+SBB EDX, [xOZJfLFQI]
+LEA AX, [CPkLjKVPzWOn]
+ROR [gIpCkcPwNnxPPb], 11
+LEA AX, [KWSkBGWBSqf]
+MUL [VfdztiRgwtiYKC]
+PUSH EBX
+XCHG [FtNPNvI], AX
+NEG AX
+PUSH EAX
+NEG AX
+POP EDI
+
+stdcall fpRbYpteIXG, ECX
+LEA EAX, [wJykFe]
+stdcall CGEJUEhZLrI, ESI
+
+XCHG [fBMyjZMqdqF], AX
+MOV BH, BL
+XCHG [KWSkBGWBSqf], AX
+NOT BH
+IMUL AX
+PUSHA
+
+
+SAR [ZhdWMuZIi], 15
+stdcall CGEJUEhZLrI, EDI
+MOV ECX, [QUYpLNZrBUUm]
+POP EBX
+
+IMUL EDX
+DEC [wWCPCN]
+POP ECX
+RCR CL, 5
+NEG [OsVCoMU]
+MOV [rFjbxOmMtqZRYj], EDX
+STC
+SAL DL, 5
+stdcall uaAOfwWXODsC
+MOV EDI, [uzKXEtOkP]
+CLD
+STD
+
+STC
+CWD
+CLD
+MOV AX, AX
+stdcall OpsFQBOdBx, DWORD [ZhdWMuZIi], ESI, EBX
+CMC
+PUSHF
+
+ROL [AxXJspWqnAFfw], 2
+MOV AX, AX
+stdcall KfkZcgJWcGsRsQ, DWORD [kcbqFkThDDzWy], ECX, EAX, DWORD [ikoFcsgiPPbfji]
+NOT AX
+
+stdcall OpsFQBOdBx, DWORD [yhVQJZcxlKmOJT], ESI, EAX
+stdcall aIWvbvDDW, EBX, EDI
+XCHG [AxXJspWqnAFfw], BH
+XADD DL, DH
+MOV AX, AX
+stdcall NbILTVx
+XCHG CL, DH
+NEG CH
+LEA AX, [kBSiKEmhJpOs]
+CBW
+LEA AX, [ZhdWMuZIi]
+PUSH ESI
+stdcall JYYLguCO
+PUSHA
+CBW
+stdcall DCYXdIHilKeG
+stdcall DCYXdIHilKeG
+PUSHA
+stdcall oVjHwhAdKaA
+PUSHF
+XCHG [yKVPmetLUBqJ], AX
+
+ADC EAX, EBX
+MUL [AxXJspWqnAFfw]
+
+CLD
+NEG EDI
+MOV [dEWjSzRzstL], DH
+stdcall GSikAOA
+XCHG [RxfBmAdCaqw], AH
+PUSH EDI
+stdcall aIWvbvDDW, DWORD [XzDGIndDU], EBX
+MUL [KWSkBGWBSqf]
+
+MOV AX, AX
+
+stdcall NbLQgcFlI, ESI, EDI, DWORD [VfdztiRgwtiYKC], ECX, DWORD [HqoYjIIw]
+NOT ECX
+stdcall rIHenouUziMgj
+MOV EAX, 20
+POP ECX
+LEA EDX, [xOZJfLFQI]
+LEA ECX, [uzKXEtOkP]
+DEC AX
+XCHG [kMYCTI], BH
+STD
+INC [UvzljCLLOw]
+NOT [sczACNd]
+LEA AX, [IOkDjJeRumBg]
+XADD EDI, EAX
+PUSH ECX
+XCHG AX, [OklssdaYPqwhk]
+stdcall AhFqMwXm, DWORD [kcbqFkThDDzWy]
+PUSHA
+stdcall VNjpPZsjhvH
+PUSH EAX
+stdcall kvOrvnqN
+CMP AL, BL
+PUSH EBX
+IMUL BL
+stdcall MjCzfV
+stdcall RfhnXfialXxah
+LEA AX, [HTFbHCRWMmTaDX]
+RCL AX, 13
+
+
+PUSH EAX
+CLD
+LEA EDX, [rnPpGuES]
+
+INC [RxfBmAdCaqw]
+ADD CL, BL
+stdcall ukuYMtRCmUDJEI
+
+XCHG EBX, EDI
+POP ECX
+POP EAX
+stdcall VjpIma, EDI, DWORD [LFMrTaXAV], DWORD [hhvYRaMWngTbHb], DWORD [FtNPNvI]
+LEA EAX, [sczACNd]
+LEA EAX, [sczACNd]
+NEG AX
+POP EBX
+CBW
+CMC
+MOV EAX, 20
+
+stdcall LUXYDHHpJOZEnC, DWORD [ZhdWMuZIi]
+MOV EAX, 20
+CWDE
+STC
+PUSH EDX
+stdcall lmJTbs
+LEA ECX, [IEgxozxZLT]
+stdcall AhFqMwXm, EDX
+XCHG AX, [kcbqFkThDDzWy]
+POP EDI
+POP EBX
+
+LEA AX, [yKVPmetLUBqJ]
+LEA EAX, [spCQvpbOTIV]
+stdcall hrnpRA, DWORD [yhVQJZcxlKmOJT], DWORD [LOMtUFLQm], ECX, EBX, ESI
+LEA AX, [FtNPNvI]
+PUSH EDI
+LEA ECX, [wJykFe]
+NOT AX
+ADC AX, [CPkLjKVPzWOn]
+stdcall WNqpnXGsF, ECX
+XCHG ECX, [spCQvpbOTIV]
+stdcall ObPNJLHeIfKlA
+PUSHF
+MOV EAX, 20
+POP EDI
+NEG [LOMtUFLQm]
+LEA AX, [gIpCkcPwNnxPPb]
+PUSH ESI
+LEA AX, [GKXHMIx]
+
+CMC
+
+MUL [SxSPIEp]
+stdcall NbILTVx
+NOT AX
+PUSH EDI
+ADC [rYiPwgJPBgltP], DL
+CWDE
+NOT [spCQvpbOTIV]
+LEA ESI, [qGzVfPjSXJ]
+stdcall XudDogi, EDX, DWORD [GlccMbEQbjt]
+stdcall rIHenouUziMgj
+NEG [UvzljCLLOw]
+CMP ESI, EDI
+ROL AX, 9
+SAL DL, 1
+
+LEA EDX, [ClwXJwv]
+PUSH EDX
+POP EDX
+SAL CH, 5
+
+PUSH EDI
+NOT [ScTghaTVXUnJV]
+NEG [kBSiKEmhJpOs]
+PUSH EAX
+
+
+stdcall XudDogi, EDI, ESI
+SUB AX, AX
+MOV [FtNPNvI], AX
+POP EDI
+
+CMC
+MOV AX, AX
+
+CWD
+LEA ESI, [wJykFe]
+MUL AX
+stdcall hrnpRA, DWORD [SxSPIEp], EBX, EDI, DWORD [OsVCoMU], EDX
+STD
+stdcall GPSDkCBiH
+NEG [GKXHMIx]
+CBW
+LEA EAX, [cLMxJDARK]
+MOV [kMYCTI], BL
+
+
+NOT AH
+SAR [kcbqFkThDDzWy], 5
+stdcall ukuYMtRCmUDJEI
+
+stdcall DCYXdIHilKeG
+SAL BL, 1
+stdcall oVjHwhAdKaA
+NEG AX
+ADD [KWSkBGWBSqf], AX
+MOV EBX, EBX
+MOV AX, AX
+PUSHA
+CMC
+POP EAX
+ADD [BncEEkZvZUOpg], AX
+LEA EDX, [spCQvpbOTIV]
+XCHG [sIyIiXFei], AH
+INC [qGzVfPjSXJ]
+LEA EDI, [rnPpGuES]
+
+stdcall ukuYMtRCmUDJEI
+MOV EDX, [IEgxozxZLT]
+PUSH EBX
+
+NOT AX
+NEG [MYBCRnlML]
+stdcall GSikAOA
+
+STC
+MOV EAX, 20
+NOT [CPkLjKVPzWOn]
+stdcall pZpbnQKbunGCi
+NOT [rFjbxOmMtqZRYj]
+LEA EDX, [uzKXEtOkP]
+NOT ESI
+ROL [kcbqFkThDDzWy], 6
+POP ESI
+stdcall hijIav, DWORD [ClwXJwv]
+MOV [xOZJfLFQI], wJykFe
+NOT ECX
+
+POP EDI
+MOV EAX, 20
+XCHG [QBDTNpVN], AL
+LEA AX, [MYBCRnlML]
+stdcall XudDogi, EDI, DWORD [rFjbxOmMtqZRYj]
+stdcall GSikAOA
+CWD
+LEA ESI, [uzKXEtOkP]
+MOV EAX, 20
+LEA AX, [fBMyjZMqdqF]
+stdcall ObPNJLHeIfKlA
+INC [yhVQJZcxlKmOJT]
+stdcall AhFqMwXm, DWORD [LOMtUFLQm]
+XCHG [ikoFcsgiPPbfji], AX
+
+CLD
+MOV EAX, 20
+stdcall kvOrvnqN
+NEG [kMYCTI]
+MOV EAX, 20
+stdcall rIHenouUziMgj
+POP EDI
+CWDE
+LEA EAX, [QUYpLNZrBUUm]
+stdcall GKaglu
+PUSH EDX
+SAL [wJykFe], 26
+CLC
+XCHG [IEgxozxZLT], EDX
+XCHG [MYBCRnlML], AX
+stdcall WNqpnXGsF, EDI
+stdcall hrnpRA, EAX, EDI, EBX, DWORD [spCQvpbOTIV], EAX
+DEC [rnPpGuES]
+stdcall NDgipJxnq, DWORD [IEgunjt], DWORD [hhvYRaMWngTbHb], EBX, ECX, DWORD [PQXpOZEuMCCfD]
+PUSH EDI
+PUSHA
+NOT [OklssdaYPqwhk]
+
+LEA AX, [MYBCRnlML]
+PUSHA
+MOV EAX, 20
+PUSH ECX
+MUL [wsmczrN]
+POP ECX
+LEA AX, [OsVCoMU]
+stdcall mYWOVpKt
+NEG [FtNPNvI]
+SAL [AxXJspWqnAFfw], 7
+PUSH EAX
+XCHG [wsmczrN], CH
+SUB [wWCPCN], AX
+LEA AX, [yKVPmetLUBqJ]
+CMC
+PUSH ESI
+PUSH EDI
+MUL [uHwOzZSpyZ]
+NOT [KzdqoL]
+stdcall hijIav, EDX
+NOT [XzDGIndDU]
+ROL AX, 8
+XCHG [spCQvpbOTIV], ECX
+
+LEA AX, [fBMyjZMqdqF]
+
+stdcall AhFqMwXm, DWORD [cLMxJDARK]
+XCHG AX, [yKVPmetLUBqJ]
+
+NOT [ibtveN]
+POP EBX
+MOV AX, AX
+SAL [FtNPNvI], 6
+RCR BL, 2
+ADC [wJykFe], ECX
+LEA AX, [fBMyjZMqdqF]
+XCHG AX, DX
+LEA AX, [SxSPIEp]
+MOV [QBDTNpVN], BL
+
+SBB AH, BL
+MOV AX, AX
+LEA EDI, [qGzVfPjSXJ]
+stdcall rUacPb
+
+NOT EDI
+PUSH ESI
+MUL ESI
+stdcall AhFqMwXm, ECX
+RCR [KzdqoL], 10
+MUL AX
+MUL [SxSPIEp]
+NEG [IEgunjt]
+CLD
+LEA EDX, [wJykFe]
+PUSH EBX
+
+MOV EAX, 20
+MOV [PQXpOZEuMCCfD], AL
+
+RCR DH, 5
+NOT EBX
+PUSH EDI
+LEA ECX, [sczACNd]
+
+
+stdcall rIHenouUziMgj
+stdcall rRxjqAzGy
+XCHG [xXkPVdKBw], DH
+MUL [ClwXJwv]
+SUB AL, AL
+POP ECX
+MOV [GKXHMIx], AX
+PUSH EBX
+MOV [ZhdWMuZIi], AX
+
+XCHG [RxfBmAdCaqw], AH
+stdcall KfkZcgJWcGsRsQ, EDX, EAX, DWORD [gIpCkcPwNnxPPb], EAX
+SUB CL, AL
+POP EDI
+STD
+DEC EAX
+LEA AX, [kcbqFkThDDzWy]
+PUSH EDI
+ROL [OonnWNlOqIJJoq], 6
+LEA AX, [kcbqFkThDDzWy]
+SBB AX, AX
+CMP [IEgunjt], AX
+INC [QBDTNpVN]
+NOT [wWCPCN]
+NOT AX
+XCHG [odhRraGWG], EDX
+PUSH EAX
+CBW
+INC [OonnWNlOqIJJoq]
+ROR [sczACNd], 25
+NOT [hhvYRaMWngTbHb]
+LEA EAX, [GlccMbEQbjt]
+stdcall qPDvotYj, DWORD [OklssdaYPqwhk], DWORD [QUYpLNZrBUUm], DWORD [MYBCRnlML], DWORD [KWSkBGWBSqf]
+PUSH EBX
+LEA AX, [MhwByhcPkSHB]
+INC [AxXJspWqnAFfw]
+stdcall RfhnXfialXxah
+INC CL
+PUSH EDI
+
+LEA AX, [yKVPmetLUBqJ]
+INC [wJykFe]
+NOT AX
+NOT [rnPpGuES]
+MOV EAX, 20
+NOT [fBMyjZMqdqF]
+
+XADD [yKVPmetLUBqJ], AX
+PUSH ESI
+MOV EAX, 20
+PUSH EAX
+NOT AX
+stdcall yzTuYNY, DWORD [yKVPmetLUBqJ], DWORD [sIyIiXFei]
+LEA AX, [OsVCoMU]
+
+
+LEA AX, [gIpCkcPwNnxPPb]
+LEA AX, [yKVPmetLUBqJ]
+stdcall CGEJUEhZLrI, EDI
+stdcall jHtFnqkI
+CWD
+MOV [sIyIiXFei], CL
+XCHG EDI, ESI
+XCHG [RMvggFF], CH
+
+RCL [AxXJspWqnAFfw], 5
+LEA AX, [MYBCRnlML]
+XCHG [XzDGIndDU], AH
+PUSH ECX
+IMUL AX
+stdcall pbeYkwVkpwTuMS
+SUB [xOZJfLFQI], EDX
+POP ESI
+MOV EAX, 20
+LEA AX, [SxSPIEp]
+stdcall EJmBFHfhsiHS, EAX, DWORD [ClwXJwv]
+LEA ECX, [qGzVfPjSXJ]
+MOV EAX, 20
+ROR AX, 11
+POP EDI
+NOT [rnPpGuES]
+XADD ECX, EDX
+ROR [xOZJfLFQI], 19
+CWD
+CWD
+LEA AX, [MYBCRnlML]
+
+MOV CH, BH
+MOV [uHwOzZSpyZ], AL
+
+stdcall kvOrvnqN
+NEG [qGzVfPjSXJ]
+
+CBW
+PUSHF
+
+LEA ESI, [odhRraGWG]
+LEA ESI, [IEgxozxZLT]
+NEG CH
+POP ESI
+NEG AL
+MOV EAX, 20
+NEG [QUYpLNZrBUUm]
+POP EAX
+SAL [rFjbxOmMtqZRYj], 24
+SAL [SxSPIEp], 2
+LEA AX, [HTFbHCRWMmTaDX]
+stdcall mjUuigSpDuboB, ESI, EAX, ESI, ECX, EAX
+ADC [kMYCTI], BL
+MOV EAX, 20
+XCHG EBX, ECX
+PUSH EAX
+STC
+LEA AX, [FtNPNvI]
+
+MOV EAX, 20
+
+XCHG [OsVCoMU], AX
+stdcall AhFqMwXm, DWORD [qGzVfPjSXJ]
+LEA AX, [ZhdWMuZIi]
+
+stdcall oVjHwhAdKaA
+STC
+NEG [wWCPCN]
+stdcall rRxjqAzGy
+PUSHA
+
+XCHG [LFMrTaXAV], BL
+
+LEA EBX, [cLMxJDARK]
+NOT ECX
+NOT [rnPpGuES]
+RCL [xXkPVdKBw], 5
+stdcall UWWllbAYB, ECX, EDI
+LEA EBX, [rFjbxOmMtqZRYj]
+NEG [RMvggFF]
+ADC AX, AX
+ADD EDI, EDI
+NEG [ScTghaTVXUnJV]
+
+
+NOT AL
+stdcall KfkZcgJWcGsRsQ, EDX, DWORD [gIpCkcPwNnxPPb], DWORD [wJykFe], DWORD [BncEEkZvZUOpg]
+LEA AX, [MhwByhcPkSHB]
+stdcall aIWvbvDDW, DWORD [RMvggFF], ECX
+stdcall ukuYMtRCmUDJEI
+LEA EDX, [GlccMbEQbjt]
+CLC
+DEC AX
+
+NOT [HqoYjIIw]
+STD
+NEG [bTpfniLbkr]
+stdcall ukuYMtRCmUDJEI
+
+ROL [KWSkBGWBSqf], 13
+
+
+INC [rFjbxOmMtqZRYj]
+
+CWD
+DEC [IOkDjJeRumBg]
+XADD AX, AX
+LEA AX, [wWCPCN]
+stdcall fpRbYpteIXG, DWORD [UgMhIUWE]
+XCHG [qGzVfPjSXJ], EBX
+CWD
+CMC
+stdcall hijIav, DWORD [ikoFcsgiPPbfji]
+NOT [PQXpOZEuMCCfD]
+
+stdcall NDgipJxnq, EDI, ESI, EDI, DWORD [GlccMbEQbjt], ESI
+
+MOV AX, AX
+XCHG [ClwXJwv], EDI
+stdcall lmJTbs
+
+
+stdcall lmJTbs
+CLC
+NEG [yhVQJZcxlKmOJT]
+
+XCHG EDX, [spCQvpbOTIV]
+INC [UvzljCLLOw]
+ROR AH, 7
+MOV [wWCPCN], AX
+NOT CL
+ADC ECX, [odhRraGWG]
+stdcall GPSDkCBiH
+XCHG EBX, [odhRraGWG]
+MOV EAX, 20
+
+RCR [XzDGIndDU], 6
+stdcall OpsFQBOdBx, DWORD [sczACNd], EDI, DWORD [MYBCRnlML]
+PUSH EDX
+stdcall mdTrePVrLog
+SUB [ikoFcsgiPPbfji], AX
+PUSHA
+XADD CH, BL
+ADD [fBMyjZMqdqF], AX
+PUSH EDI
+LEA AX, [ikoFcsgiPPbfji]
+ROL ECX, 23
+PUSH EDI
+stdcall uaAOfwWXODsC
+LEA AX, [MYBCRnlML]
+MOV EBX, [QUYpLNZrBUUm]
+
+XCHG [SxSPIEp], AX
+MOV [BncEEkZvZUOpg], AX
+NEG AX
+NEG AX
+PUSH EDX
+ADC [uzKXEtOkP], ESI
+MOV EAX, 20
+SAR EAX, 21
+CLD
+NOT AL
+stdcall dTWcrjDsyoSYTu
+ADC [qGzVfPjSXJ], EDI
+stdcall NbILTVx
+POP EDX
+LEA ECX, [GlccMbEQbjt]
+stdcall OpsFQBOdBx, DWORD [OsVCoMU], EDX, EBX
+MOV EAX, 20
+
+LEA AX, [FtNPNvI]
+LEA AX, [MYBCRnlML]
+MUL EDI
+PUSHA
+INC AX
+SBB [hhvYRaMWngTbHb], hhvYRaMWngTbHb
+IMUL BL
+PUSHA
+POP EDX
+NEG [RMvggFF]
+LEA AX, [SxSPIEp]
+POP EAX
+
+stdcall NbILTVx
+
+XCHG [FtNPNvI], AX
+PUSHA
+LEA ESI, [sczACNd]
+MOV AL, BL
+NOT [LOMtUFLQm]
+SAR AX, 14
+stdcall NbLQgcFlI, ECX, ESI, ECX, DWORD [gIpCkcPwNnxPPb], DWORD [ScTghaTVXUnJV]
+SBB [xOZJfLFQI], ClwXJwv
+CMC
+stdcall pZpbnQKbunGCi
+stdcall uaAOfwWXODsC
+POP ESI
+NOT EDI
+XCHG [xXkPVdKBw], AL
+stdcall mYWOVpKt
+LEA AX, [HTFbHCRWMmTaDX]
+DEC DH
+POP EDI
+NOT CL
+XCHG [sczACNd], EAX
+stdcall pujryKmtWuXyT, ESI, EDX, DWORD [sIyIiXFei], DWORD [LOMtUFLQm]
+
+stdcall SJBkLokSNqd
+POP EDX
+stdcall hijIav, DWORD [IEgxozxZLT]
+PUSH EAX
+MOV [ClwXJwv], hhvYRaMWngTbHb
+NEG [SxSPIEp]
+MOV EAX, 20
+CWDE
+SUB [ibtveN], DH
+stdcall hrnpRA, DWORD [cLMxJDARK], DWORD [OsVCoMU], DWORD [cLMxJDARK], ESI, DWORD [wsmczrN]
+stdcall DCYXdIHilKeG
+stdcall NDgipJxnq, DWORD [wJykFe], DWORD [OklssdaYPqwhk], EBX, DWORD [nbaIbQU], DWORD [rFjbxOmMtqZRYj]
+LEA AX, [IEgunjt]
+ROR AX, 2
+stdcall kvOrvnqN
+XCHG [UvzljCLLOw], CL
+SUB DL, CL
+
+
+CWD
+MOV AX, AX
+stdcall pZpbnQKbunGCi
+STC
+
+XADD [ScTghaTVXUnJV], AH
+
+ADC EDI, [IEgxozxZLT]
+IMUL AL
+NOT [GKXHMIx]
+NOT [IOkDjJeRumBg]
+MOV EAX, 20
+SAL ECX, 4
+LEA EDI, [spCQvpbOTIV]
+CLC
+NEG AX
+
+SBB [uHwOzZSpyZ], BL
+LEA EDX, [sczACNd]
+CBW
+PUSH EDI
+NOT BH
+stdcall ObPNJLHeIfKlA
+POP ESI
+NOT DL
+LEA EBX, [wJykFe]
+ROR AX, 15
+
+stdcall jHtFnqkI
+PUSH EDX
+DEC AH
+ADC [AxXJspWqnAFfw], BL
+INC [uHwOzZSpyZ]
+MOV [ZhdWMuZIi], AX
+LEA EAX, [odhRraGWG]
+stdcall pbeYkwVkpwTuMS
+XCHG AH, BH
+PUSH EDI
+RCR [sIyIiXFei], 2
+IMUL CH
+MUL [RMvggFF]
+XADD AX, AX
+MOV EAX, 20
+stdcall OpsFQBOdBx, EDI, DWORD [kcbqFkThDDzWy], DWORD [uHwOzZSpyZ]
+
+XCHG [OklssdaYPqwhk], AX
+MOV AX, AX
+NEG [XzDGIndDU]
+
+NOT [xXkPVdKBw]
+MOV EAX, 20
+MOV [GlccMbEQbjt], EBX
+
+SAL [ikoFcsgiPPbfji], 2
+MOV [QUYpLNZrBUUm], uzKXEtOkP
+XCHG [LFMrTaXAV], AH
+NOT EDI
+MUL AX
+XCHG ESI, EDI
+
+LEA AX, [OsVCoMU]
+POP EAX
+NOT [IEgunjt]
+NOT [QUYpLNZrBUUm]
+NEG [UgMhIUWE]
+DEC [lhZItyytcMrq]
+NOT [XzDGIndDU]
+PUSH EAX
+stdcall KfkZcgJWcGsRsQ, ESI, ECX, DWORD [sIyIiXFei], EDI
+LEA AX, [KzdqoL]
+SAL AH, 1
+PUSHF
+NEG [wsmczrN]
+LEA ESI, [IEgxozxZLT]
+ADC [LOMtUFLQm], CH
+MOV EAX, [wJykFe]
+INC [fBMyjZMqdqF]
+XCHG CH, [dEWjSzRzstL]
+NOT AX
+INC [AxXJspWqnAFfw]
+
+LEA EBX, [rnPpGuES]
+MOV [BncEEkZvZUOpg], AX
+MOV EAX, 20
+CWD
+POP ECX
+stdcall rIHenouUziMgj
+stdcall wiLsHcceq, DWORD [cLMxJDARK]
+STD
+MOV [fBMyjZMqdqF], AX
+POP ESI
+CLC
+LEA ESI, [wJykFe]
+CMP EDI, EDX
+
+XCHG [QBDTNpVN], DH
+MOV EAX, 20
+POP EDI
+stdcall LUXYDHHpJOZEnC, DWORD [dEWjSzRzstL]
+NEG AX
+IMUL CL
+MOV EDI, [xOZJfLFQI]
+LEA ECX, [QUYpLNZrBUUm]
+NEG [GlccMbEQbjt]
+LEA EDX, [QUYpLNZrBUUm]
+SUB [odhRraGWG], ECX
+CWDE
+DEC [wJykFe]
+LEA AX, [gIpCkcPwNnxPPb]
+NOT [cLMxJDARK]
+LEA EBX, [ClwXJwv]
+PUSHA
+NEG AX
+XCHG [wWCPCN], AX
+CMC
+
+MOV EAX, 20
+NOT AX
+DEC [OsVCoMU]
+stdcall AhFqMwXm, ESI
+CWDE
+LEA AX, [OklssdaYPqwhk]
+NEG ECX
+
+LEA AX, [fBMyjZMqdqF]
+PUSH EBX
+stdcall mjUuigSpDuboB, DWORD [HqoYjIIw], DWORD [IEgunjt], ECX, EDX, EAX
+
+stdcall pZpbnQKbunGCi
+NEG CL
+PUSHA
+STC
+NOT ECX
+LEA EAX, [uzKXEtOkP]
+MOV AX, AX
+stdcall zqRcWtRnZZBQHm, EBX, DWORD [rYiPwgJPBgltP], DWORD [IEgxozxZLT], DWORD [hhvYRaMWngTbHb], EAX
+NEG [UvzljCLLOw]
+LEA AX, [wWCPCN]
+MOV [OonnWNlOqIJJoq], DH
+MOV BH, CL
+MOV EAX, 20
+NOT [uHwOzZSpyZ]
+XADD AL, CL
+NOT BH
+stdcall AhFqMwXm, EBX
+STD
+LEA ESI, [xOZJfLFQI]
+MUL [dEWjSzRzstL]
+CWD
+XADD [sczACNd], EAX
+POP EBX
+MOV EAX, 20
+LEA AX, [HTFbHCRWMmTaDX]
+LEA ESI, [xOZJfLFQI]
+IMUL EDX
+NOT [CPkLjKVPzWOn]
+LEA ESI, [wJykFe]
+XCHG EBX, [qGzVfPjSXJ]
+
+POP EAX
+CLC
+SBB EDI, [sczACNd]
+POP EAX
+IMUL AL
+CLD
+MUL [LFMrTaXAV]
+
+NOT AX
+XCHG [uzKXEtOkP], EAX
+NOT [HTFbHCRWMmTaDX]
+MUL [nbaIbQU]
+POP ESI
+IMUL AX
+MOV AX, AX
+
+POP EDX
+LEA AX, [FtNPNvI]
+POP EAX
+MUL [wWCPCN]
+NOT ECX
+XCHG DH, [PQXpOZEuMCCfD]
+LEA AX, [KzdqoL]
+NEG EDX
+CMC
+
+LEA ESI, [odhRraGWG]
+CWD
+SUB EAX, [cLMxJDARK]
+MOV BL, AH
+POP EBX
+CLC
+stdcall aIWvbvDDW, DWORD [KzdqoL], DWORD [cLMxJDARK]
+stdcall hrnpRA, DWORD [wJykFe], DWORD [GKXHMIx], DWORD [spCQvpbOTIV], ESI, EDI
+XCHG [CPkLjKVPzWOn], AX
+NOT EDI
+stdcall fkhisstsPy
+stdcall KfkZcgJWcGsRsQ, DWORD [ScTghaTVXUnJV], EDX, DWORD [CPkLjKVPzWOn], DWORD [hhvYRaMWngTbHb]
+
+PUSH ECX
+LEA AX, [SxSPIEp]
+
+LEA EAX, [rFjbxOmMtqZRYj]
+MOV DH, AL
+INC EBX
+NOT [gIpCkcPwNnxPPb]
+POP ESI
+
+
+CMC
+PUSH EAX
+LEA AX, [HTFbHCRWMmTaDX]
+IMUL AX
+stdcall JYYLguCO
+INC [OsVCoMU]
+
+PUSHA
+IMUL ESI
+NEG [GlccMbEQbjt]
+INC EDI
+LEA AX, [ZhdWMuZIi]
+RCR [RxfBmAdCaqw], 2
+LEA AX, [ZhdWMuZIi]
+PUSH ESI
+MOV [GKXHMIx], AX
+CWD
+CWDE
+CLD
+MOV AX, AX
+NOT [dEWjSzRzstL]
+MUL EDX
+stdcall MjCzfV
+CWDE
+XCHG ESI, [uzKXEtOkP]
+POP ECX
+STD
+XCHG EBX, [odhRraGWG]
+LEA EBX, [IEgxozxZLT]
+
+stdcall NbILTVx
+RCR AX, 12
+MOV EAX, 20
+stdcall pZpbnQKbunGCi
+NOT AX
+IMUL AX
+stdcall AhFqMwXm, DWORD [dEWjSzRzstL]
+XCHG CH, [RxfBmAdCaqw]
+
+NOT [qGzVfPjSXJ]
+MOV [wsmczrN], CL
+XCHG [RMvggFF], DL
+MOV AX, AX
+NEG ESI
+
+XCHG [VfdztiRgwtiYKC], CL
+POP EDX
+MOV EAX, 20
+LEA EBX, [qGzVfPjSXJ]
+INC CL
+NOT ESI
+CLD
+POP EAX
+
+
+NOT [LFMrTaXAV]
+LEA ESI, [qGzVfPjSXJ]
+XADD [bTpfniLbkr], DH
+
+PUSHA
+DEC ECX
+CWD
+
+stdcall PXkFjZDXNhcsft, DWORD [ClwXJwv], EBX, DWORD [IEgxozxZLT]
+NEG EDX
+CLC
+POP ECX
+NEG EBX
+MOV AX, AX
+CMP AX, SI
+stdcall WNqpnXGsF, DWORD [OsVCoMU]
+POP ESI
+IMUL BH
+ADC [fBMyjZMqdqF], AX
+
+CWD
+NOT CL
+MOV [fBMyjZMqdqF], AX
+XCHG AX, [OklssdaYPqwhk]
+PUSH EDI
+MOV [XzDGIndDU], CL
+SUB AX, AX
+LEA ESI, [rFjbxOmMtqZRYj]
+stdcall SJBkLokSNqd
+LEA AX, [BncEEkZvZUOpg]
+LEA ECX, [rnPpGuES]
+stdcall qPDvotYj, ECX, EDI, DWORD [GlccMbEQbjt], ECX
+
+IMUL ECX
+SBB [IEgxozxZLT], ESI
+NEG [SxSPIEp]
+PUSH EDI
+NOT [GKXHMIx]
+RCL AX, 1
+stdcall uaAOfwWXODsC
+NOT [qGzVfPjSXJ]
+NOT AX
+stdcall pZpbnQKbunGCi
+POP ECX
+CWD
+stdcall pZpbnQKbunGCi
+LEA AX, [HTFbHCRWMmTaDX]
+LEA AX, [GKXHMIx]
+
+stdcall XudDogi, EDI, ECX
+XCHG [OklssdaYPqwhk], AX
+POP EBX
+MOV CL, CL
+CLC
+XCHG [SxSPIEp], AX
+LEA EDX, [rnPpGuES]
+LEA EBX, [GlccMbEQbjt]
+MUL [lhZItyytcMrq]
+PUSH EDI
+SAL [wWCPCN], 4
+
+
+MOV EAX, 20
+LEA EDX, [hhvYRaMWngTbHb]
+RCR [qGzVfPjSXJ], 4
+PUSH ESI
+PUSH EDX
+CMC
+stdcall pbeYkwVkpwTuMS
+LEA AX, [IOkDjJeRumBg]
+NOT EDX
+POP ESI
+MOV ECX, EDI
+
+
+ADD [rYiPwgJPBgltP], BH
+XCHG AX, SI
+stdcall ukuYMtRCmUDJEI
+NEG AX
+NOT DH
+NOT [odhRraGWG]
+XADD [bTBWVMMFKphYae], AL
+MOV DH, BH
+DEC [nbaIbQU]
+
+LEA AX, [kcbqFkThDDzWy]
+IMUL DH
+ADC [uHwOzZSpyZ], DH
+LEA EBX, [odhRraGWG]
+INC EAX
+DEC AL
+MOV [lhZItyytcMrq], DH
+MOV ESI, ECX
+LEA EBX, [ClwXJwv]
+MOV [QBDTNpVN], DH
+LEA AX, [IOkDjJeRumBg]
+MOV [yhVQJZcxlKmOJT], DL
+XCHG EAX, EDX
+NOT [uHwOzZSpyZ]
+POP EDX
+MOV EAX, 20
+MUL EDX
+MOV AL, AL
+PUSH EDX
+MUL [MYBCRnlML]
+CWDE
+INC [sczACNd]
+NEG AL
+CLC
+stdcall GKaglu
+ADC [QBDTNpVN], CL
+ROR AX, 1
+MOV [KzdqoL], AX
+XCHG DH, [rYiPwgJPBgltP]
+POP EDI
+POP EDX
+MOV [ClwXJwv], EBX
+XADD [kBSiKEmhJpOs], AX
+NEG [yKVPmetLUBqJ]
+NOT [MhwByhcPkSHB]
+CWD
+LEA EDX, [uzKXEtOkP]
+LEA AX, [ZhdWMuZIi]
+IMUL CL
+PUSHA
+MOV ESI, EDX
+stdcall qPDvotYj, EBX, DWORD [xOZJfLFQI], DWORD [bTpfniLbkr], ESI
+MOV EAX, 20
+stdcall qPDvotYj, DWORD [uHwOzZSpyZ], ESI, EDI, DWORD [sIyIiXFei]
+PUSH EBX
+MOV CL, AH
+CMC
+MOV [kBSiKEmhJpOs], AX
+CBW
+
+PUSH EDI
+CBW
+MOV [sczACNd], rnPpGuES
+PUSH ECX
+NEG EDX
+NOT EDX
+MOV EAX, 20
+SAR DH, 4
+MOV EBX, [sczACNd]
+ADC [PQXpOZEuMCCfD], CH
+XCHG AH, CH
+POP EDI
+stdcall uaAOfwWXODsC
+POP EAX
+stdcall wiLsHcceq, DWORD [qGzVfPjSXJ]
+MOV CH, BL
+stdcall rUacPb
+PUSH ECX
+POP EDX
+XCHG [xXkPVdKBw], DH
+LEA AX, [KWSkBGWBSqf]
+LEA EDI, [cLMxJDARK]
+ROL CH, 3
+IMUL CL
+MOV AX, AX
+NOT [MhwByhcPkSHB]
+CBW
+NEG ESI
+MOV EAX, 20
+MUL [MhwByhcPkSHB]
+PUSHF
+NEG EDI
+MUL [sIyIiXFei]
+INC [KzdqoL]
+ADD AX, AX
+stdcall LUXYDHHpJOZEnC, DWORD [KzdqoL]
+PUSH EDI
+
+stdcall dTWcrjDsyoSYTu
+ROR AX, 7
+
+XCHG AX, SI
+LEA EDI, [hhvYRaMWngTbHb]
+stdcall RfhnXfialXxah
+DEC [ClwXJwv]
+NEG ECX
+POP EDI
+PUSH EBX
+NOT ESI
+CMP [kMYCTI], BH
+IMUL AX
+POP EAX
+stdcall MjCzfV
+LEA AX, [SxSPIEp]
+CMC
+RCL AX, 9
+INC BH
+stdcall KfkZcgJWcGsRsQ, EAX, DWORD [IOkDjJeRumBg], ESI, DWORD [ScTghaTVXUnJV]
+PUSH EDX
+XCHG ESI, [cLMxJDARK]
+PUSHA
+MOV AX, AX
+INC ECX
+
+PUSH ESI
+STC
+stdcall bdiRiQIcDTn
+LEA AX, [BncEEkZvZUOpg]
+POP EBX
+ADC AX, [IEgunjt]
+XCHG AX, DI
+MOV EAX, 20
+stdcall mjUuigSpDuboB, EDI, DWORD [yKVPmetLUBqJ], EAX, ECX, DWORD [uHwOzZSpyZ]
+
+PUSHA
+MOV [AxXJspWqnAFfw], AL
+PUSH EDX
+stdcall mdTrePVrLog
+stdcall NbILTVx
+stdcall jHtFnqkI
+stdcall aIWvbvDDW, DWORD [sczACNd], ESI
+
+SAR [nbaIbQU], 4
+STD
+stdcall UWWllbAYB, DWORD [GlccMbEQbjt], ECX
+LEA AX, [MhwByhcPkSHB]
+LEA ESI, [rFjbxOmMtqZRYj]
+CLC
+POP ESI
+MOV EAX, 20
+SAR [sczACNd], 3
+XCHG [HqoYjIIw], CL
+IMUL AX
+MUL AX
+INC CH
+ROR [PQXpOZEuMCCfD], 5
+POP ECX
+MOV [cLMxJDARK], EBX
+INC [CPkLjKVPzWOn]
+INC [yKVPmetLUBqJ]
+XCHG [LFMrTaXAV], DL
+POP ECX
+
+PUSHA
+LEA AX, [ikoFcsgiPPbfji]
+LEA AX, [yKVPmetLUBqJ]
+NEG [OonnWNlOqIJJoq]
+NOT [LFMrTaXAV]
+
+MOV EAX, 20
+SAL EAX, 25
+XCHG EDI, [IEgxozxZLT]
+LEA ECX, [hhvYRaMWngTbHb]
+XADD [RxfBmAdCaqw], BH
+XCHG DH, AH
+ADC AL, [bTpfniLbkr]
+MOV EAX, 20
+POP ECX
+RCR [qGzVfPjSXJ], 16
+XCHG AX, [MhwByhcPkSHB]
+INC ECX
+XCHG [odhRraGWG], EDI
+PUSHA
+NOT DH
+POP EAX
+RCR [nbaIbQU], 5
+PUSH EAX
+LEA ECX, [IEgxozxZLT]
+
+NEG [wJykFe]
+
+MOV EAX, 20
+SAL [lhZItyytcMrq], 4
+NEG [PQXpOZEuMCCfD]
+XCHG [yKVPmetLUBqJ], AX
+
+
+
+
+PUSH EDI
+CWDE
+LEA EDX, [sczACNd]
+stdcall NbLQgcFlI, DWORD [rFjbxOmMtqZRYj], DWORD [ClwXJwv], DWORD [FtNPNvI], EBX, EAX
+
+stdcall MjCzfV
+MOV AX, AX
+DEC CL
+NEG [KWSkBGWBSqf]
+NEG [UvzljCLLOw]
+MUL AX
+
+POP ECX
+NEG [kMYCTI]
+
+RCL BH, 7
+STC
+stdcall fkhisstsPy
+CMC
+POP EDI
+LEA ECX, [rnPpGuES]
+LEA EBX, [xOZJfLFQI]
+
+LEA AX, [CPkLjKVPzWOn]
+stdcall fkhisstsPy
+RCL ESI, 13
+LEA EAX, [rFjbxOmMtqZRYj]
+CWD
+
+PUSHA
+stdcall NbLQgcFlI, DWORD [MYBCRnlML], EAX, DWORD [HqoYjIIw], ESI, ECX
+stdcall hrnpRA, DWORD [kBSiKEmhJpOs], DWORD [QUYpLNZrBUUm], DWORD [MYBCRnlML], DWORD [cLMxJDARK], EDX
+
+LEA AX, [HTFbHCRWMmTaDX]
+MOV EAX, 20
+MOV DL, BH
+MUL EAX
+XCHG [qGzVfPjSXJ], EDX
+ADC AX, AX
+
+MOV [RMvggFF], CH
+PUSH ECX
+PUSHA
+POP ESI
+INC EDI
+STD
+stdcall NbILTVx
+NOT AH
+NOT DH
+CWD
+STD
+XCHG AH, CH
+INC EAX
+PUSHA
+CLD
+XCHG EAX, EDI
+NOT [sczACNd]
+SAR CL, 6
+STD
+XCHG [wsmczrN], DH
+POP EBX
+NEG BH
+NOT AX
+NEG [MYBCRnlML]
+MUL [MhwByhcPkSHB]
+POP EDI
+
+PUSH EBX
+LEA AX, [SxSPIEp]
+LEA EDI, [QUYpLNZrBUUm]
+SUB AX, AX
+MUL AX
+DEC AX
+XCHG AX, DX
+MOV EAX, 20
+stdcall ukuYMtRCmUDJEI
+push 0
+Call [ExitProcess]
+eUoNHCPb:
+POP ECX
+SAL [spCQvpbOTIV], 22
+LEA EBX, [rnPpGuES]
+CBW
+STD
+
+STD
+STD
+CWD
+NEG [QUYpLNZrBUUm]
+CWD
+MUL DH
+stdcall KfkZcgJWcGsRsQ, DWORD [FtNPNvI], DWORD [kMYCTI], EDI, ESI
+stdcall LUXYDHHpJOZEnC, DWORD [ikoFcsgiPPbfji]
+MOV EAX, 20
+stdcall GKaglu
+stdcall bdiRiQIcDTn
+
+ykfsFFQ:
+ROL ESI, 24
+
+XntOlWGzXFNmq:
+IMUL EBX
+XCHG DH, BL
+PUSHA
+POP EBX
+SBB [OklssdaYPqwhk], AX
+NOT AX
+MOV EDX, [qGzVfPjSXJ]
+
+uGDoPJFgFbH:
+LEA EBX, [sczACNd]
+ADD AX, AX
+
+LEA AX, [wWCPCN]
+XCHG EDI, ECX
+LEA EDX, [odhRraGWG]
+
+stdcall dTWcrjDsyoSYTu
+stdcall fUnxQYhu, DWORD [odhRraGWG], DWORD [RxfBmAdCaqw], DWORD [xOZJfLFQI]
+stdcall rRxjqAzGy
+NEG [BncEEkZvZUOpg]
+
+rKnmkkMGbz:
+MOV [uHwOzZSpyZ], CL
+NEG [LFMrTaXAV]
+SAL [XzDGIndDU], 4
+PUSHA
+
+XCHG EDI, [odhRraGWG]
+PUSH EBX
+NEG [odhRraGWG]
+SUB [rFjbxOmMtqZRYj], EDI
+stdcall LUXYDHHpJOZEnC, EDI
+
+dfdlFGysV:
+
+POP EBX
+IMUL ESI
+MOV [SxSPIEp], AX
+MUL [wWCPCN]
+LEA AX, [kcbqFkThDDzWy]
+LEA EAX, [spCQvpbOTIV]
+STD
+DEC [bTBWVMMFKphYae]
+PUSHA
+LEA AX, [ZhdWMuZIi]
+XCHG AX, BX
+
+SUB [BncEEkZvZUOpg], AX
+
+INC AX
+stdcall fpRbYpteIXG, DWORD [AxXJspWqnAFfw]
+LEA AX, [yKVPmetLUBqJ]
+STC
+XCHG CL, BL
+LEA AX, [KzdqoL]
+PUSHF
+stdcall RfhnXfialXxah
+
+LrMsQCFKOY:
+IMUL AX
+XADD AX, AX
+
+XCHG [IEgxozxZLT], EBX
+stdcall lmJTbs
+stdcall rIHenouUziMgj
+SAR AL, 1
+stdcall pZpbnQKbunGCi
+SUB [OsVCoMU], AX
+NOT ECX
+MOV AX, AX
+MOV EAX, 20
+CMC
+CMC
+ROL AX, 3
+ROL [wsmczrN], 6
+NOT [ikoFcsgiPPbfji]
+MOV EAX, 20
+NOT [AxXJspWqnAFfw]
+
+WdFVScqSExrCrN:
+LEA AX, [yKVPmetLUBqJ]
+SBB [spCQvpbOTIV], rFjbxOmMtqZRYj
+NEG [LFMrTaXAV]
+RCR AX, 4
+POP EDI
+stdcall hrnpRA, EAX, DWORD [OklssdaYPqwhk], EBX, EDI, EBX
+
+NEG [kMYCTI]
+NEG EDX
+PUSHA
+LEA AX, [SxSPIEp]
+
+NOT DH
+SBB [ClwXJwv], rFjbxOmMtqZRYj
+RCL [bTpfniLbkr], 6
+IMUL AH
+LEA AX, [gIpCkcPwNnxPPb]
+ADC [IEgunjt], AX
+stdcall rRxjqAzGy
+NOT DL
+
+LVSHXWvZvfh:
+NOT [wJykFe]
+MUL [kMYCTI]
+DEC [KWSkBGWBSqf]
+SUB AX, AX
+XCHG [spCQvpbOTIV], EDX
+STD
+NEG [gIpCkcPwNnxPPb]
+LEA EDX, [rnPpGuES]
+
+CWD
+MUL [spCQvpbOTIV]
+PUSH EDX
+LEA AX, [KWSkBGWBSqf]
+POP EDI
+XCHG [dEWjSzRzstL], AL
+NOT [ikoFcsgiPPbfji]
+
+
+PwIoJDPRCCTHDf:
+MOV EAX, 20
+SAR EDX, 30
+DEC DH
+MOV [hhvYRaMWngTbHb], ECX
+SAR [MYBCRnlML], 9
+PUSH ESI
+
+
+
+
+NEG [RMvggFF]
+SAR [ikoFcsgiPPbfji], 9
+CMP EBX, ESI
+
+LQLLkZSstV:
+stdcall lmJTbs
+XCHG [RMvggFF], DL
+
+STC
+IMUL AX
+MOV [spCQvpbOTIV], EDI
+RCL EDX, 28
+
+PUSH EDX
+CBW
+LEA EDI, [sczACNd]
+CMP [UvzljCLLOw], CH
+POP ESI
+XCHG AH, AL
+
+QNSCmkkzbvkcb:
+MUL [ScTghaTVXUnJV]
+
+stdcall rIHenouUziMgj
+LEA AX, [FtNPNvI]
+NEG DL
+
+LEA AX, [CPkLjKVPzWOn]
+MOV AX, AX
+SBB ECX, EBX
+XADD [bTBWVMMFKphYae], DH
+RCR AX, 12
+NEG [qGzVfPjSXJ]
+SBB [UgMhIUWE], AL
+
+ZDJkUJVCLubuH:
+
+MOV [IEgunjt], AX
+LEA AX, [ZhdWMuZIi]
+MOV AX, AX
+POP ESI
+XCHG EAX, EDX
+
+
+sFSCxmhprNba:
+ADC [hhvYRaMWngTbHb], ECX
+MOV EAX, 20
+
+PUSH EDI
+MUL [MhwByhcPkSHB]
+LEA EDX, [qGzVfPjSXJ]
+NEG [IEgxozxZLT]
+NOT [uHwOzZSpyZ]
+
+MOV EDI, [qGzVfPjSXJ]
+CLD
+stdcall ObPNJLHeIfKlA
+CLC
+stdcall zqRcWtRnZZBQHm, EAX, EBX, EDX, DWORD [MYBCRnlML], ECX
+SAL AX, 6
+stdcall WNqpnXGsF, DWORD [SxSPIEp]
+CMC
+
+tpiRAiOIqob:
+RCL AX, 15
+ROR BL, 7
+POP ECX
+stdcall GKaglu
+stdcall OpsFQBOdBx, EAX, EDI, DWORD [lhZItyytcMrq]
+
+PUSH EDX
+XCHG AH, BH
+
+
+stdcall KfkZcgJWcGsRsQ, EBX, DWORD [UgMhIUWE], DWORD [MhwByhcPkSHB], EBX
+XCHG [OklssdaYPqwhk], AX
+RCR EAX, 2
+IMUL ECX
+stdcall hijIav, DWORD [wsmczrN]
+ROR AX, 11
+POP EDX
+LEA EAX, [rnPpGuES]
+MUL EBX
+stdcall GKaglu
+MOV EAX, [wJykFe]
+PUSH EAX
+NOT EDX
+NOT EDI
+
+ZtCYQwQkFF:
+SAR CH, 5
+RCL [UvzljCLLOw], 2
+NOT AX
+ROL [kBSiKEmhJpOs], 1
+NOT EBX
+LEA ESI, [GlccMbEQbjt]
+stdcall hijIav, ECX
+ADD [rnPpGuES], EAX
+PUSHA
+XCHG EDX, EAX
+LEA AX, [gIpCkcPwNnxPPb]
+LEA AX, [KWSkBGWBSqf]
+stdcall mjUuigSpDuboB, DWORD [OsVCoMU], DWORD [rFjbxOmMtqZRYj], DWORD [SxSPIEp], DWORD [gIpCkcPwNnxPPb], DWORD [CPkLjKVPzWOn]
+CBW
+MOV EAX, 20
+stdcall rIHenouUziMgj
+XCHG AX, [MhwByhcPkSHB]
+MOV AX, AX
+
+stdcall EJmBFHfhsiHS, EBX, EDI
+NEG AX
+LEA EDX, [uzKXEtOkP]
+PUSH EDI
+MUL CH
+IMUL EAX
+
+KOEowjSiDH:
+POP ECX
+CWD
+LEA AX, [GKXHMIx]
+MUL [UgMhIUWE]
+XCHG AH, [yhVQJZcxlKmOJT]
+MOV AX, AX
+RCR [XzDGIndDU], 6
+CWDE
+NOT [RxfBmAdCaqw]
+LEA EAX, [sczACNd]
+POP EBX
+MOV [KzdqoL], AX
+MOV EAX, 20
+
+
+LEA EDI, [QUYpLNZrBUUm]
+MUL [nbaIbQU]
+
+LEA EBX, [xOZJfLFQI]
+MOV AX, AX
+ADC CH, DL
+LEA EBX, [uzKXEtOkP]
+PUSH EAX
+INC [PQXpOZEuMCCfD]
+CMP [hhvYRaMWngTbHb], ESI
+NOT [xOZJfLFQI]
+POP ECX
+SAR AX, 11
+IMUL ECX
+MOV [QBDTNpVN], AL
+stdcall fkhisstsPy
+DEC AX
+
+vEEteej:
+NOT [MYBCRnlML]
+stdcall aIWvbvDDW, ESI, DWORD [AxXJspWqnAFfw]
+
+CWDE
+CWD
+stdcall NbILTVx
+NOT BH
+PUSHA
+CLD
+
+RCL [ClwXJwv], 20
+NOT EAX
+
+kCSKbmNu:
+NEG DH
+XADD AX, AX
+LEA EDI, [hhvYRaMWngTbHb]
+POP EBX
+DEC [KWSkBGWBSqf]
+NEG [kcbqFkThDDzWy]
+NOT [lhZItyytcMrq]
+stdcall kvOrvnqN
+
+QPIrVIU:
+NEG [UgMhIUWE]
+MUL BL
+LEA AX, [IEgunjt]
+LEA EDX, [xOZJfLFQI]
+MOV EBX, [sczACNd]
+stdcall CGEJUEhZLrI, DWORD [spCQvpbOTIV]
+NEG [VfdztiRgwtiYKC]
+PUSHA
+PUSH EDX
+stdcall kvOrvnqN
+SUB [GlccMbEQbjt], GlccMbEQbjt
+stdcall pbeYkwVkpwTuMS
+LEA AX, [yKVPmetLUBqJ]
+
+yFWNZruvXM:
+LEA EDI, [xOZJfLFQI]
+CLD
+
+MOV EAX, 20
+LEA EDX, [uzKXEtOkP]
+POP ESI
+MOV CL, BH
+CWDE
+SBB AX, AX
+MOV AX, AX
+IMUL DL
+SUB AL, AH
+LEA EBX, [QUYpLNZrBUUm]
+stdcall AhFqMwXm, DWORD [rFjbxOmMtqZRYj]
+MOV EAX, 20
+PUSH ECX
+ADD BL, AL
+POP EBX
+XCHG [HTFbHCRWMmTaDX], AX
+stdcall rUacPb
+MOV [RxfBmAdCaqw], BL
+stdcall VNjpPZsjhvH
+POP ESI
+MUL ESI
+POP EDX
+
+XCHG EDX, [spCQvpbOTIV]
+
+ruaPabuy:
+CMP [SxSPIEp], AX
+NEG AL
+DEC [FtNPNvI]
+MUL [QUYpLNZrBUUm]
+PUSH EBX
+LEA AX, [yKVPmetLUBqJ]
+LEA AX, [yKVPmetLUBqJ]
+SAR [LFMrTaXAV], 2
+stdcall wiLsHcceq, DWORD [MYBCRnlML]
+
+
+SUB [yhVQJZcxlKmOJT], AH
+LEA EBX, [hhvYRaMWngTbHb]
+stdcall NbILTVx
+
+PFTuBx:
+stdcall XudDogi, ESI, DWORD [ClwXJwv]
+
+XADD [bTpfniLbkr], CH
+POP ESI
+MOV EAX, 20
+CMP [GlccMbEQbjt], EAX
+PUSH ECX
+POP EAX
+
+NEG AH
+NOT [QBDTNpVN]
+
+PUSH ECX
+NOT [gIpCkcPwNnxPPb]
+
+
+UYdIAWpCxwn:
+MOV EAX, 20
+CMC
+NEG AX
+
+NEG AX
+
+
+XCHG AX, SI
+stdcall rRxjqAzGy
+RCL [sIyIiXFei], 4
+CLD
+CMC
+stdcall mjUuigSpDuboB, EAX, DWORD [xXkPVdKBw], DWORD [yhVQJZcxlKmOJT], ECX, EDI
+CMP AL, DL
+
+NOT AX
+
+wQmOFpsLZZD:
+NOT AX
+LEA EAX, [hhvYRaMWngTbHb]
+
+
+stdcall KfkZcgJWcGsRsQ, DWORD [RxfBmAdCaqw], DWORD [RMvggFF], DWORD [UgMhIUWE], DWORD [BncEEkZvZUOpg]
+LEA AX, [BncEEkZvZUOpg]
+PUSHA
+CLC
+
+UGtJvyGNou:
+NEG CH
+PUSH ESI
+SUB [qGzVfPjSXJ], ESI
+XCHG AX, [HTFbHCRWMmTaDX]
+
+NOT [HqoYjIIw]
+XCHG AX, [ZhdWMuZIi]
+MOV EBX, [odhRraGWG]
+MOV [bTBWVMMFKphYae], CL
+NOT BL
+stdcall RfhnXfialXxah
+stdcall RfhnXfialXxah
+LEA EDX, [wJykFe]
+PUSHA
+SUB [BncEEkZvZUOpg], AX
+XADD CH, DL
+stdcall oVjHwhAdKaA
+
+
+stdcall uaAOfwWXODsC
+NOT [UvzljCLLOw]
+LEA EBX, [odhRraGWG]
+POP EBX
+PUSH ESI
+
+inOaxhvXdiQMY:
+NOT [xOZJfLFQI]
+stdcall jHtFnqkI
+stdcall EJmBFHfhsiHS, DWORD [SxSPIEp], DWORD [yKVPmetLUBqJ]
+LEA AX, [ikoFcsgiPPbfji]
+stdcall oVjHwhAdKaA
+stdcall aIWvbvDDW, EAX, DWORD [RMvggFF]
+MUL CL
+POP EAX
+
+IMUL AX
+LEA EBX, [rFjbxOmMtqZRYj]
+
+uuFNwG:
+PUSHA
+stdcall hijIav, DWORD [hhvYRaMWngTbHb]
+LEA ECX, [IEgxozxZLT]
+DEC AX
+LEA AX, [kBSiKEmhJpOs]
+POP ESI
+
+stdcall pZpbnQKbunGCi
+
+POP EBX
+LEA AX, [KzdqoL]
+NEG [ikoFcsgiPPbfji]
+stdcall DCYXdIHilKeG
+INC DH
+
+
+MOV [hhvYRaMWngTbHb], wJykFe
+
+ADC ESI, EDX
+stdcall WNqpnXGsF, DWORD [spCQvpbOTIV]
+
+CJHEgtKStm:
+
+ROL [QBDTNpVN], 5
+PUSHF
+MOV EAX, 20
+RCR [KzdqoL], 6
+PUSH EDX
+LEA EDX, [qGzVfPjSXJ]
+NOT AH
+LEA AX, [OklssdaYPqwhk]
+stdcall jHtFnqkI
+PUSH ECX
+
+NEG AX
+NEG [wJykFe]
+SAL EAX, 19
+MOV EAX, 20
+CWD
+NOT [uzKXEtOkP]
+
+CMP [xXkPVdKBw], DL
+
+pfrJwO:
+NOT EAX
+stdcall KfkZcgJWcGsRsQ, EBX, ECX, DWORD [OsVCoMU], EAX
+stdcall AhFqMwXm, DWORD [ZhdWMuZIi]
+
+CWDE
+NOT [rnPpGuES]
+NOT [HTFbHCRWMmTaDX]
+STD
+NEG [nbaIbQU]
+stdcall hrnpRA, DWORD [HqoYjIIw], DWORD [ikoFcsgiPPbfji], DWORD [fBMyjZMqdqF], DWORD [HqoYjIIw], DWORD [KWSkBGWBSqf]
+
+
+Jxmsal:
+stdcall NDgipJxnq, DWORD [QUYpLNZrBUUm], DWORD [rnPpGuES], EDI, EDX, DWORD [xOZJfLFQI]
+PUSH EBX
+SAL ECX, 30
+
+LEA AX, [KWSkBGWBSqf]
+CMP [yKVPmetLUBqJ], AX
+stdcall aIWvbvDDW, DWORD [LOMtUFLQm], DWORD [HqoYjIIw]
+DEC EDI
+
+NOT AL
+ROL [bTpfniLbkr], 7
+INC [CPkLjKVPzWOn]
+CMP [ScTghaTVXUnJV], CL
+LEA ESI, [uzKXEtOkP]
+NEG AX
+stdcall LUXYDHHpJOZEnC, DWORD [IEgxozxZLT]
+MOV [sczACNd], QUYpLNZrBUUm
+
+dZJhSwOaTUFsVl:
+
+RCR BH, 1
+XADD [IEgxozxZLT], ECX
+CLC
+NOT EDI
+MUL ESI
+stdcall NbLQgcFlI, DWORD [IOkDjJeRumBg], DWORD [yKVPmetLUBqJ], EAX, DWORD [ikoFcsgiPPbfji], EDI
+PUSHA
+ROR [kcbqFkThDDzWy], 11
+CLC
+RCR EDX, 20
+STC
+
+stdcall GSikAOA
+NOT [bTpfniLbkr]
+
+CBW
+POP EDX
+NOT AX
+PUSHA
+PUSH EBX
+RCL ESI, 15
+POP EDX
+NOT ESI
+
+YjplpYEvHbELMB:
+IMUL AH
+LEA EDX, [hhvYRaMWngTbHb]
+MOV [QBDTNpVN], AL
+stdcall qPDvotYj, DWORD [dEWjSzRzstL], EDX, ESI, DWORD [ibtveN]
+RCL [RMvggFF], 6
+CWDE
+
+CBW
+CMP [FtNPNvI], AX
+NOT AX
+POP EDX
+NEG AX
+SBB [lhZItyytcMrq], AL
+stdcall VNjpPZsjhvH
+stdcall ObPNJLHeIfKlA
+stdcall fkhisstsPy
+stdcall mjUuigSpDuboB, EBX, ECX, EDI, DWORD [VfdztiRgwtiYKC], ESI
+MOV EAX, 20
+NEG AL
+
+IwhLsiZmginKH:
+PUSH ECX
+MUL AX
+SUB AX, AX
+MOV [HTFbHCRWMmTaDX], AX
+
+
+
+
+PUSH EDI
+PUSH EDI
+PUSH ECX
+stdcall JYYLguCO
+
+NOT [PQXpOZEuMCCfD]
+MOV EAX, 20
+ROR [bTBWVMMFKphYae], 4
+
+BRspgegDFoiMsn:
+MOV AL, DH
+LEA AX, [ikoFcsgiPPbfji]
+SUB [ScTghaTVXUnJV], DH
+SUB DH, BH
+POP EAX
+CMP [qGzVfPjSXJ], EDI
+SBB [sczACNd], ClwXJwv
+PUSHF
+
+LEA EDI, [GlccMbEQbjt]
+ROR [ikoFcsgiPPbfji], 2
+stdcall yzTuYNY, EDI, EAX
+PUSHA
+NOT ESI
+SAL [qGzVfPjSXJ], 24
+
+YCAhULGIOE:
+IMUL BH
+stdcall NbILTVx
+IMUL ESI
+PUSH EDI
+RCL [wJykFe], 17
+SAL ESI, 26
+MOV EAX, 20
+stdcall pZpbnQKbunGCi
+STD
+CBW
+
+IMUL EAX
+
+BxeSbqfo:
+stdcall rUacPb
+stdcall CGEJUEhZLrI, DWORD [VfdztiRgwtiYKC]
+
+stdcall JYYLguCO
+
+CWD
+NOT AX
+CMC
+
+
+LEA AX, [ikoFcsgiPPbfji]
+MOV ECX, [rFjbxOmMtqZRYj]
+MUL EAX
+
+dWlIvcxlkhayE:
+XADD EAX, EDX
+
+IMUL EDI
+CWDE
+
+AMfOLzMxIWJ:
+
+NEG [nbaIbQU]
+XADD EAX, EDI
+NOT EAX
+LEA EDI, [qGzVfPjSXJ]
+
+NBMgkEYpZpVx:
+XCHG [UvzljCLLOw], AL
+stdcall mdTrePVrLog
+
+MOV EAX, 20
+CMC
+ADD AX, AX
+NEG AX
+
+STD
+NOT [sIyIiXFei]
+
+
+
+NOT [wsmczrN]
+
+OpZyFDlGGSOvp:
+stdcall MjCzfV
+POP EBX
+LEA AX, [kcbqFkThDDzWy]
+SUB [uHwOzZSpyZ], AH
+PUSHA
+NEG [IEgxozxZLT]
+ROR [rnPpGuES], 18
+RCR [ikoFcsgiPPbfji], 12
+NEG [FtNPNvI]
+PUSHF
+LEA AX, [fBMyjZMqdqF]
+stdcall UWWllbAYB, DWORD [OklssdaYPqwhk], EAX
+
+
+ESlYcyNpL:
+CBW
+POP EBX
+XADD DL, CH
+stdcall hrnpRA, DWORD [kBSiKEmhJpOs], DWORD [MYBCRnlML], ECX, EDI, ESI
+
+RCR DH, 2
+
+SAL EBX, 2
+stdcall dTWcrjDsyoSYTu
+
+rEmyqDzHyf:
+POP EBX
+stdcall UWWllbAYB, EAX, EBX
+PUSH EDX
+CBW
+
+STC
+NOT ECX
+LEA AX, [gIpCkcPwNnxPPb]
+LEA ESI, [rFjbxOmMtqZRYj]
+
+cqlgKBAL:
+MOV EAX, 20
+CLD
+POP EDX
+
+peDfBP:
+NEG [HTFbHCRWMmTaDX]
+LEA AX, [gIpCkcPwNnxPPb]
+LEA AX, [OklssdaYPqwhk]
+POP EBX
+IMUL CL
+
+NOT AX
+
+PUSH EDI
+POP EBX
+CLD
+LEA EAX, [wJykFe]
+POP EDI
+LEA EDX, [IEgxozxZLT]
+MOV AX, AX
+PUSHA
+
+
+SSqKGuoarhn:
+stdcall jHtFnqkI
+SAL EAX, 10
+CBW
+NOT DH
+IMUL EDI
+
+
+RFQejn:
+NOT EDX
+NOT [BncEEkZvZUOpg]
+LEA AX, [IOkDjJeRumBg]
+stdcall mYWOVpKt
+ADD EDI, ESI
+stdcall XudDogi, DWORD [wJykFe], DWORD [MYBCRnlML]
+stdcall fUnxQYhu, DWORD [MhwByhcPkSHB], DWORD [RMvggFF], ESI
+XCHG [XzDGIndDU], DL
+CMC
+stdcall kvOrvnqN
+NEG [VfdztiRgwtiYKC]
+
+proc DCYXdIHilKeG
+XCHG AX, [kcbqFkThDDzWy]
+LEA AX, [CPkLjKVPzWOn]
+LEA AX, [MhwByhcPkSHB]
+XCHG [kMYCTI], DL
+CLD
+LEA AX, [ikoFcsgiPPbfji]
+ADD [OsVCoMU], AX
+MUL [xXkPVdKBw]
+XCHG EAX, EDI
+MUL BL
+LEA EDI, [IEgxozxZLT]
+ret
+endp
+proc GPSDkCBiH
+LEA AX, [kcbqFkThDDzWy]
+CLD
+MOV EAX, [uzKXEtOkP]
+NEG [wsmczrN]
+XCHG EDX, [GlccMbEQbjt]
+
+XCHG DL, [nbaIbQU]
+NEG [xXkPVdKBw]
+
+ADC AL, [uHwOzZSpyZ]
+
+STC
+
+MOV [yKVPmetLUBqJ], AX
+
+invoke MessageBox, NULL, message,NULL, NULL
+XCHG ESI, [hhvYRaMWngTbHb]
+NOT AH
+LEA ECX, [qGzVfPjSXJ]
+
+ret
+endp
+proc hrnpRA , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+NEG [HqoYjIIw]
+INC AX
+NEG [spCQvpbOTIV]
+
+NEG [hhvYRaMWngTbHb]
+
+STC
+SUB EDI, EAX
+XCHG [QUYpLNZrBUUm], EDI
+NEG [bTBWVMMFKphYae]
+IMUL ECX
+LEA ESI, [xOZJfLFQI]
+
+
+CWDE
+DEC AX
+SBB [wsmczrN], AH
+XCHG AX, [SxSPIEp]
+ret
+endp
+proc wiLsHcceq , arg1
+sub esp, 4
+LEA EAX, [odhRraGWG]
+NEG [uzKXEtOkP]
+
+LEA EDX, [qGzVfPjSXJ]
+SBB DL, DH
+MOV EDI, [rnPpGuES]
+DEC [PQXpOZEuMCCfD]
+XCHG AX, [wWCPCN]
+LEA AX, [CPkLjKVPzWOn]
+IMUL AX
+XADD CH, DH
+LEA AX, [IOkDjJeRumBg]
+NEG [OklssdaYPqwhk]
+NEG AX
+ROR [KzdqoL], 3
+
+
+NEG [rYiPwgJPBgltP]
+DEC AX
+LEA EBX, [qGzVfPjSXJ]
+ADC AX, [gIpCkcPwNnxPPb]
+LEA ESI, [sczACNd]
+
+STC
+
+NEG [IEgxozxZLT]
+XCHG [GKXHMIx], AX
+INC ECX
+ret
+endp
+proc mdTrePVrLog
+LEA AX, [yKVPmetLUBqJ]
+
+CBW
+call hrnpRA, DWORD [yhVQJZcxlKmOJT], EDI, EDX, DWORD [ScTghaTVXUnJV], DWORD [ScTghaTVXUnJV]
+RCL BH, 2
+MOV [LOMtUFLQm], AH
+CLD
+CLC
+LEA AX, [HTFbHCRWMmTaDX]
+call DCYXdIHilKeG
+
+call DCYXdIHilKeG
+call GPSDkCBiH
+NOT EDI
+
+
+ROR DL, 5
+call wiLsHcceq, EDX
+ret
+endp
+proc yzTuYNY ,arg1, arg2
+sub esp, 8
+ROR ECX, 13
+INC AX
+XCHG BL, BH
+call wiLsHcceq, DWORD [wJykFe]
+ADC AX, AX
+DEC [AxXJspWqnAFfw]
+MOV AL, DH
+
+XCHG EAX, [rFjbxOmMtqZRYj]
+SUB AX, AX
+NEG [UgMhIUWE]
+call hrnpRA, EDI, DWORD [KzdqoL], EDI, EBX, ESI
+STC
+NOT [PQXpOZEuMCCfD]
+call wiLsHcceq, EDI
+LEA AX, [ikoFcsgiPPbfji]
+XADD ESI, ESI
+XCHG EDX, [rFjbxOmMtqZRYj]
+STC
+MOV EDX, EAX
+call wiLsHcceq, ESI
+LEA EAX, [qGzVfPjSXJ]
+DEC [GKXHMIx]
+
+call GPSDkCBiH
+ret
+endp
+proc aIWvbvDDW ,arg1, arg2
+sub esp, 8
+call mdTrePVrLog
+
+LEA AX, [fBMyjZMqdqF]
+call DCYXdIHilKeG
+
+IMUL DL
+
+ROL [sIyIiXFei], 5
+INC EBX
+MOV [bTpfniLbkr], AL
+MUL AX
+MOV EAX, 20
+SAR AX, 11
+NEG AH
+MOV [HTFbHCRWMmTaDX], AX
+NEG [FtNPNvI]
+NEG ECX
+call DCYXdIHilKeG
+MUL EAX
+MOV EAX, 20
+MOV [bTpfniLbkr], BH
+call wiLsHcceq, DWORD [GlccMbEQbjt]
+ret
+endp
+proc LUXYDHHpJOZEnC , arg1
+sub esp, 4
+NOT [SxSPIEp]
+MOV ESI, [hhvYRaMWngTbHb]
+LEA EAX, [odhRraGWG]
+
+CLC
+
+CBW
+
+ROR [KzdqoL], 4
+CLC
+LEA EDX, [qGzVfPjSXJ]
+
+LEA ESI, [odhRraGWG]
+NEG AX
+RCL CH, 1
+NEG ECX
+CMP [KzdqoL], AX
+NEG CL
+CMC
+NEG [IOkDjJeRumBg]
+ret
+endp
+proc NbILTVx
+call wiLsHcceq, DWORD [bTpfniLbkr]
+IMUL AX
+LEA ESI, [hhvYRaMWngTbHb]
+
+LEA EBX, [GlccMbEQbjt]
+call hrnpRA, DWORD [yhVQJZcxlKmOJT], DWORD [OklssdaYPqwhk], EDI, DWORD [SxSPIEp], EAX
+INC [ikoFcsgiPPbfji]
+NOT [HTFbHCRWMmTaDX]
+XCHG EBX, EDX
+
+
+MOV EAX, 20
+CLD
+ADD EDI, EBX
+LEA AX, [KWSkBGWBSqf]
+
+NOT [GKXHMIx]
+
+call DCYXdIHilKeG
+LEA AX, [KzdqoL]
+XADD AX, AX
+NEG [hhvYRaMWngTbHb]
+
+XCHG [ikoFcsgiPPbfji], AX
+LEA EDI, [xOZJfLFQI]
+INC AX
+
+call LUXYDHHpJOZEnC, DWORD [bTBWVMMFKphYae]
+
+NOT ECX
+LEA AX, [BncEEkZvZUOpg]
+XCHG [yKVPmetLUBqJ], AX
+MOV EAX, 20
+XCHG [hhvYRaMWngTbHb], EAX
+
+LEA AX, [IEgunjt]
+RCL AX, 12
+MOV EDX, EBX
+call LUXYDHHpJOZEnC, EDI
+LEA AX, [OklssdaYPqwhk]
+CWD
+NOT CH
+MOV EAX, 20
+ret
+endp
+proc VjpIma , arg1, arg2, arg3, arg4
+sub esp, 16
+NEG [UgMhIUWE]
+SAL [ZhdWMuZIi], 10
+call yzTuYNY, EAX, ECX
+SUB [LFMrTaXAV], CH
+call hrnpRA, EBX, EDI, DWORD [uHwOzZSpyZ], EDI, DWORD [FtNPNvI]
+
+MOV DH, AH
+SAL [spCQvpbOTIV], 3
+RCL CL, 2
+DEC AX
+ret
+endp
+proc hijIav , arg1
+sub esp, 4
+MOV AX, AX
+call yzTuYNY, EBX, EAX
+XCHG EAX, [rnPpGuES]
+LEA EDX, [hhvYRaMWngTbHb]
+ret
+endp
+proc rUacPb
+XCHG AX, [BncEEkZvZUOpg]
+NEG AX
+NEG [uHwOzZSpyZ]
+MOV AX, AX
+
+LEA AX, [MhwByhcPkSHB]
+call mdTrePVrLog
+MOV EAX, 20
+MOV [wsmczrN], CL
+call mdTrePVrLog
+ret
+endp
+proc rIHenouUziMgj
+NEG AX
+MOV [RxfBmAdCaqw], BL
+DEC [OklssdaYPqwhk]
+LEA EDI, [hhvYRaMWngTbHb]
+LEA AX, [gIpCkcPwNnxPPb]
+ADD [uHwOzZSpyZ], CL
+NEG BH
+LEA ECX, [QUYpLNZrBUUm]
+call hijIav, ESI
+NEG [gIpCkcPwNnxPPb]
+
+CLC
+ret
+endp
+proc UWWllbAYB ,arg1, arg2
+sub esp, 8
+call hijIav, DWORD [xOZJfLFQI]
+IMUL AX
+call rUacPb
+call VjpIma, DWORD [uzKXEtOkP], EDI, DWORD [QUYpLNZrBUUm], DWORD [lhZItyytcMrq]
+LEA AX, [KWSkBGWBSqf]
+
+NOT [MhwByhcPkSHB]
+
+ret
+endp
+proc mjUuigSpDuboB , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+NEG [FtNPNvI]
+SBB [SxSPIEp], AX
+NEG [PQXpOZEuMCCfD]
+ret
+endp
+proc GKaglu
+CBW
+
+LEA EDX, [qGzVfPjSXJ]
+XCHG DL, [dEWjSzRzstL]
+call rUacPb
+call mjUuigSpDuboB, DWORD [UgMhIUWE], DWORD [RxfBmAdCaqw], DWORD [wJykFe], DWORD [FtNPNvI], DWORD [GlccMbEQbjt]
+MOV [QUYpLNZrBUUm], EDI
+
+
+MUL AH
+ret
+endp
+proc CGEJUEhZLrI , arg1
+sub esp, 4
+CMP [cLMxJDARK], EDX
+call mjUuigSpDuboB, DWORD [cLMxJDARK], DWORD [uHwOzZSpyZ], DWORD [dEWjSzRzstL], DWORD [GKXHMIx], DWORD [yKVPmetLUBqJ]
+
+call rUacPb
+
+SAL AX, 13
+call hijIav, DWORD [MhwByhcPkSHB]
+STC
+INC AX
+
+LEA EDX, [odhRraGWG]
+INC [uzKXEtOkP]
+ADC [MhwByhcPkSHB], AX
+XCHG [OsVCoMU], AX
+XCHG [yhVQJZcxlKmOJT], CH
+NOT [IOkDjJeRumBg]
+ret
+endp
+proc qPDvotYj , arg1, arg2, arg3, arg4
+sub esp, 16
+XCHG EDI, EBX
+RCL AX, 1
+CWDE
+DEC [qGzVfPjSXJ]
+XCHG EAX, EBX
+ADC [LOMtUFLQm], AH
+MOV BL, DH
+XCHG [rYiPwgJPBgltP], CH
+call hijIav, ECX
+LEA AX, [BncEEkZvZUOpg]
+ret
+endp
+proc MjCzfV
+LEA EBX, [IEgxozxZLT]
+
+
+INC [IEgxozxZLT]
+LEA AX, [gIpCkcPwNnxPPb]
+LEA AX, [fBMyjZMqdqF]
+CMP AX, DI
+XADD BL, BH
+DEC [kcbqFkThDDzWy]
+SAR [yhVQJZcxlKmOJT], 7
+XCHG [CPkLjKVPzWOn], AX
+RCL EAX, 15
+call aIWvbvDDW, EAX, ECX
+call GKaglu
+call mdTrePVrLog
+STC
+NEG [bTpfniLbkr]
+
+
+XCHG ECX, [rnPpGuES]
+SAR AX, 4
+INC [MYBCRnlML]
+STC
+NEG DH
+
+NEG [ScTghaTVXUnJV]
+XADD EDI, ESI
+
+XCHG CH, [HqoYjIIw]
+call wiLsHcceq, DWORD [yhVQJZcxlKmOJT]
+LEA AX, [OklssdaYPqwhk]
+MOV EAX, 20
+LEA EBX, [IEgxozxZLT]
+MOV [BncEEkZvZUOpg], AX
+MUL [RMvggFF]
+call CGEJUEhZLrI, ESI
+MOV EAX, 20
+
+XCHG [kMYCTI], DH
+XCHG [SxSPIEp], AX
+SUB [gIpCkcPwNnxPPb], AX
+SBB [PQXpOZEuMCCfD], CH
+DEC AH
+CMP [wsmczrN], AH
+NOT [sIyIiXFei]
+
+MOV AX, AX
+ret
+endp
+proc OpsFQBOdBx , arg1, arg2, arg3
+sub esp, 12
+CLC
+LEA EDX, [hhvYRaMWngTbHb]
+call GKaglu
+IMUL AX
+CMP AX, SI
+ret
+endp
+proc NDgipJxnq , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+LEA AX, [IOkDjJeRumBg]
+
+LEA EAX, [spCQvpbOTIV]
+call hijIav, EDX
+NEG [bTBWVMMFKphYae]
+
+NEG [dEWjSzRzstL]
+RCR CH, 7
+LEA ECX, [rnPpGuES]
+call hrnpRA, DWORD [xXkPVdKBw], EBX, DWORD [fBMyjZMqdqF], EAX, EBX
+LEA EAX, [sczACNd]
+CMC
+call hrnpRA, EDX, DWORD [ClwXJwv], EBX, DWORD [cLMxJDARK], EDX
+CWDE
+MOV EAX, 20
+
+ret
+endp
+proc JYYLguCO
+LEA ECX, [wJykFe]
+NEG [IOkDjJeRumBg]
+NEG [KzdqoL]
+LEA AX, [KzdqoL]
+
+
+
+call UWWllbAYB, DWORD [kMYCTI], DWORD [QBDTNpVN]
+NOT [dEWjSzRzstL]
+NOT [xOZJfLFQI]
+call yzTuYNY, ECX, DWORD [KzdqoL]
+call MjCzfV
+CLD
+
+ret
+endp
+proc lmJTbs
+LEA AX, [SxSPIEp]
+MOV AL, CH
+LEA AX, [IEgunjt]
+call qPDvotYj, DWORD [wWCPCN], EAX, DWORD [OsVCoMU], EDX
+MOV [yhVQJZcxlKmOJT], BH
+LEA ECX, [xOZJfLFQI]
+call GKaglu
+
+MOV [HTFbHCRWMmTaDX], AX
+ROR AX, 5
+XCHG [UvzljCLLOw], AH
+MOV EAX, 20
+LEA AX, [HTFbHCRWMmTaDX]
+IMUL AX
+SAL BH, 3
+NEG [sczACNd]
+NOT AX
+CLC
+
+call DCYXdIHilKeG
+
+ret
+endp
+proc pbeYkwVkpwTuMS
+MUL AX
+NOT [xOZJfLFQI]
+call wiLsHcceq, DWORD [kcbqFkThDDzWy]
+CWDE
+LEA EDI, [odhRraGWG]
+DEC [IEgunjt]
+MOV EAX, 20
+NEG BL
+
+SUB DH, BL
+NEG EDX
+LEA AX, [KzdqoL]
+CLD
+NEG AX
+NEG BL
+MUL EDX
+NEG ESI
+LEA EDX, [odhRraGWG]
+IMUL AX
+call yzTuYNY, ECX, ESI
+NEG EBX
+NOT AL
+call JYYLguCO
+SUB AX, AX
+SAL DL, 5
+call mdTrePVrLog
+call DCYXdIHilKeG
+
+XCHG [nbaIbQU], BL
+call qPDvotYj, DWORD [GKXHMIx], DWORD [ScTghaTVXUnJV], DWORD [QBDTNpVN], EBX
+SAR [GKXHMIx], 3
+
+ret
+endp
+proc EJmBFHfhsiHS ,arg1, arg2
+sub esp, 8
+call GPSDkCBiH
+LEA AX, [CPkLjKVPzWOn]
+XCHG [FtNPNvI], AX
+
+call DCYXdIHilKeG
+MOV EAX, 20
+MOV EAX, 20
+call lmJTbs
+
+ROL AX, 7
+CWD
+NEG ECX
+call yzTuYNY, DWORD [xXkPVdKBw], DWORD [HqoYjIIw]
+LEA AX, [MhwByhcPkSHB]
+NOT [xXkPVdKBw]
+NEG [MhwByhcPkSHB]
+
+LEA AX, [IEgunjt]
+
+call DCYXdIHilKeG
+LEA EDX, [QUYpLNZrBUUm]
+
+LEA ESI, [uzKXEtOkP]
+ROR [ZhdWMuZIi], 13
+call lmJTbs
+XCHG [nbaIbQU], BH
+CLC
+NEG [rFjbxOmMtqZRYj]
+ret
+endp
+proc AhFqMwXm , arg1
+sub esp, 4
+ADD EDX, EDI
+
+CWD
+MOV EAX, [hhvYRaMWngTbHb]
+IMUL CH
+IMUL EAX
+call lmJTbs
+XCHG [UgMhIUWE], DL
+MOV [xXkPVdKBw], CH
+CLC
+ADD [OonnWNlOqIJJoq], BL
+XCHG BH, BL
+MOV [wsmczrN], CL
+LEA AX, [FtNPNvI]
+LEA AX, [KWSkBGWBSqf]
+STC
+NOT EDI
+LEA EDI, [cLMxJDARK]
+LEA ECX, [qGzVfPjSXJ]
+ret
+endp
+proc kvOrvnqN
+CWDE
+MOV EAX, 20
+
+STC
+
+ret
+endp
+proc jHtFnqkI
+
+CLD
+XCHG [uzKXEtOkP], EBX
+LEA AX, [IOkDjJeRumBg]
+MOV EDX, [odhRraGWG]
+STC
+XCHG [gIpCkcPwNnxPPb], AX
+
+XCHG AX, BX
+IMUL EDI
+SAR [rFjbxOmMtqZRYj], 2
+RCL [qGzVfPjSXJ], 31
+MOV [IEgxozxZLT], wJykFe
+
+DEC [IOkDjJeRumBg]
+
+NOT [rnPpGuES]
+
+MOV [odhRraGWG], EDX
+MOV [fBMyjZMqdqF], AX
+ROL BL, 4
+MOV [VfdztiRgwtiYKC], AH
+IMUL BH
+RCL [LOMtUFLQm], 4
+call GKaglu
+call mjUuigSpDuboB, DWORD [FtNPNvI], EBX, DWORD [LFMrTaXAV], DWORD [ZhdWMuZIi], ESI
+call hrnpRA, DWORD [kBSiKEmhJpOs], ESI, EAX, DWORD [RxfBmAdCaqw], DWORD [AxXJspWqnAFfw]
+
+
+NOT [yKVPmetLUBqJ]
+
+
+
+
+
+ADC [LOMtUFLQm], DL
+LEA ECX, [GlccMbEQbjt]
+NOT [wWCPCN]
+SBB [uHwOzZSpyZ], AL
+MOV AX, AX
+MOV AX, AX
+
+call lmJTbs
+LEA EBX, [odhRraGWG]
+ret
+endp
+proc fkhisstsPy
+call DCYXdIHilKeG
+
+MOV AX, AX
+ROR AX, 3
+MUL [wJykFe]
+NEG [ZhdWMuZIi]
+DEC EDI
+NEG [QUYpLNZrBUUm]
+MOV EAX, 20
+NOT EAX
+ret
+endp
+proc oVjHwhAdKaA
+CWD
+INC ESI
+MOV EAX, 20
+MUL [dEWjSzRzstL]
+call yzTuYNY, EAX, EDI
+
+CMC
+ret
+endp
+proc pujryKmtWuXyT , arg1, arg2, arg3, arg4
+sub esp, 16
+LEA AX, [fBMyjZMqdqF]
+LEA AX, [SxSPIEp]
+ret
+endp
+proc dTWcrjDsyoSYTu
+LEA ESI, [xOZJfLFQI]
+DEC [sczACNd]
+LEA AX, [KzdqoL]
+LEA AX, [MYBCRnlML]
+LEA AX, [FtNPNvI]
+call EJmBFHfhsiHS, ESI, DWORD [PQXpOZEuMCCfD]
+LEA AX, [IOkDjJeRumBg]
+NEG AX
+NEG [kcbqFkThDDzWy]
+
+SAL AX, 6
+
+CLC
+call DCYXdIHilKeG
+CMP [FtNPNvI], AX
+
+RCL [wJykFe], 18
+SAR [rYiPwgJPBgltP], 6
+MOV EAX, 20
+ret
+endp
+proc PXkFjZDXNhcsft , arg1, arg2, arg3
+sub esp, 12
+call pbeYkwVkpwTuMS
+NOT EDX
+XCHG [xXkPVdKBw], BH
+call mdTrePVrLog
+NEG BL
+call yzTuYNY, DWORD [fBMyjZMqdqF], DWORD [rFjbxOmMtqZRYj]
+call jHtFnqkI
+
+MOV [OklssdaYPqwhk], AX
+MUL DL
+call wiLsHcceq, DWORD [LFMrTaXAV]
+call OpsFQBOdBx, EDX, DWORD [ScTghaTVXUnJV], EBX
+
+
+CWD
+MOV EAX, 20
+LEA EAX, [GlccMbEQbjt]
+XCHG [OonnWNlOqIJJoq], BH
+
+SAL CL, 1
+
+XCHG [rYiPwgJPBgltP], BH
+
+INC AX
+NOT AX
+
+NOT [RMvggFF]
+call dTWcrjDsyoSYTu
+
+LEA EDX, [uzKXEtOkP]
+
+CMC
+XADD [QBDTNpVN], BL
+ret
+endp
+proc ukuYMtRCmUDJEI
+LEA AX, [KWSkBGWBSqf]
+
+LEA AX, [IEgunjt]
+RCR [ZhdWMuZIi], 2
+LEA AX, [SxSPIEp]
+call MjCzfV
+call hrnpRA, DWORD [bTBWVMMFKphYae], DWORD [sIyIiXFei], EDX, DWORD [fBMyjZMqdqF], EBX
+LEA AX, [FtNPNvI]
+MOV EDX, ESI
+XCHG AL, [HqoYjIIw]
+
+NOT [sczACNd]
+LEA EBX, [sczACNd]
+NEG AX
+IMUL BL
+ret
+endp
+proc fUnxQYhu , arg1, arg2, arg3
+sub esp, 12
+MOV DL, DH
+
+NOT [RMvggFF]
+CMC
+XCHG AX, [GKXHMIx]
+LEA ESI, [cLMxJDARK]
+
+MUL [OonnWNlOqIJJoq]
+call VjpIma, ESI, EBX, DWORD [HqoYjIIw], DWORD [LOMtUFLQm]
+MOV [bTBWVMMFKphYae], BL
+NEG AX
+call yzTuYNY, ESI, DWORD [lhZItyytcMrq]
+call NbILTVx
+SUB [QBDTNpVN], DH
+ret
+endp
+proc WNqpnXGsF , arg1
+sub esp, 4
+call OpsFQBOdBx, EDX, ESI, DWORD [nbaIbQU]
+LEA EDI, [IEgxozxZLT]
+call MjCzfV
+ROL EDI, 19
+call MjCzfV
+XCHG AX, DI
+CLD
+XCHG [ClwXJwv], ESI
+
+call jHtFnqkI
+MOV [HqoYjIIw], BH
+NEG [GlccMbEQbjt]
+XCHG [wJykFe], EDX
+MOV EAX, ECX
+RCR AX, 4
+NOT AX
+SUB [IEgxozxZLT], EDX
+NEG ECX
+SBB BH, AL
+ADC DH, [nbaIbQU]
+CWDE
+MOV BH, BH
+
+ret
+endp
+proc SJBkLokSNqd
+ADC AX, [FtNPNvI]
+MUL [wsmczrN]
+LEA EAX, [qGzVfPjSXJ]
+NEG [BncEEkZvZUOpg]
+call GKaglu
+MOV EAX, 20
+MOV EAX, 20
+NEG [dEWjSzRzstL]
+call jHtFnqkI
+MOV AX, AX
+SUB [wsmczrN], AH
+INC EBX
+XCHG [yhVQJZcxlKmOJT], DL
+NEG DH
+NEG DH
+NOT CL
+
+LEA AX, [IOkDjJeRumBg]
+LEA AX, [HTFbHCRWMmTaDX]
+ret
+endp
+proc GSikAOA
+
+NEG [OklssdaYPqwhk]
+CWD
+MOV ECX, ESI
+RCL ECX, 15
+XCHG [rYiPwgJPBgltP], AH
+
+call mjUuigSpDuboB, DWORD [bTpfniLbkr], EAX, EBX, ESI, EAX
+CWDE
+RCL AH, 3
+NEG [bTBWVMMFKphYae]
+LEA AX, [OklssdaYPqwhk]
+
+LEA AX, [IEgunjt]
+MOV BL, DL
+XCHG DH, [yhVQJZcxlKmOJT]
+XCHG AX, SI
+call qPDvotYj, EBX, ECX, EBX, DWORD [bTpfniLbkr]
+NEG AL
+MUL [yhVQJZcxlKmOJT]
+call hijIav, ECX
+NOT [BncEEkZvZUOpg]
+NEG AX
+NEG [kBSiKEmhJpOs]
+MOV [qGzVfPjSXJ], qGzVfPjSXJ
+call GPSDkCBiH
+SUB [LFMrTaXAV], AH
+MUL [KzdqoL]
+RCR [hhvYRaMWngTbHb], 2
+call aIWvbvDDW, EDI, DWORD [dEWjSzRzstL]
+MOV EDI, EAX
+ADC [KWSkBGWBSqf], AX
+call ukuYMtRCmUDJEI
+NOT [VfdztiRgwtiYKC]
+MOV EAX, 20
+IMUL EAX
+call hijIav, EDX
+IMUL EAX
+ret
+endp
+proc NbLQgcFlI , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+
+call dTWcrjDsyoSYTu
+IMUL AX
+call OpsFQBOdBx, DWORD [ClwXJwv], ESI, DWORD [FtNPNvI]
+XCHG [wWCPCN], AX
+call wiLsHcceq, DWORD [KWSkBGWBSqf]
+NOT DH
+ret
+endp
+proc pZpbnQKbunGCi
+MOV EAX, 20
+call SJBkLokSNqd
+SBB [bTpfniLbkr], BH
+call fkhisstsPy
+SAL [HqoYjIIw], 5
+LEA EBX, [qGzVfPjSXJ]
+NOT [GKXHMIx]
+ret
+endp
+proc ObPNJLHeIfKlA
+DEC AX
+call pZpbnQKbunGCi
+XCHG CH, [yhVQJZcxlKmOJT]
+STC
+IMUL AX
+ADD CL, BH
+RCR [HTFbHCRWMmTaDX], 13
+RCR CL, 2
+
+SBB [dEWjSzRzstL], BL
+SAL EBX, 7
+MOV EAX, 20
+CLC
+DEC ECX
+NEG EAX
+NEG ECX
+XCHG EAX, [uzKXEtOkP]
+call qPDvotYj, ECX, DWORD [FtNPNvI], EAX, DWORD [sIyIiXFei]
+MOV [PQXpOZEuMCCfD], DH
+STC
+ret
+endp
+proc mYWOVpKt
+DEC [spCQvpbOTIV]
+MOV AH, BH
+LEA AX, [fBMyjZMqdqF]
+NEG AH
+call hrnpRA, EBX, DWORD [HTFbHCRWMmTaDX], DWORD [ClwXJwv], DWORD [QUYpLNZrBUUm], DWORD [VfdztiRgwtiYKC]
+NEG BL
+NEG [VfdztiRgwtiYKC]
+LEA AX, [GKXHMIx]
+call NbILTVx
+ADC AL, AH
+
+ADD AX, AX
+XCHG [IOkDjJeRumBg], AX
+LEA AX, [kcbqFkThDDzWy]
+NEG DL
+call rIHenouUziMgj
+MOV [QBDTNpVN], CL
+NEG ESI
+CLD
+
+call AhFqMwXm, ECX
+SAL [HqoYjIIw], 4
+
+DEC [uzKXEtOkP]
+LEA AX, [FtNPNvI]
+call UWWllbAYB, EDI, DWORD [GlccMbEQbjt]
+SUB [qGzVfPjSXJ], wJykFe
+call hrnpRA, ECX, DWORD [UvzljCLLOw], DWORD [yhVQJZcxlKmOJT], EAX, DWORD [fBMyjZMqdqF]
+RCL EDI, 25
+call kvOrvnqN
+RCR AL, 5
+LEA EAX, [IEgxozxZLT]
+
+ret
+endp
+proc RfhnXfialXxah
+MOV EAX, 20
+
+MOV EAX, 20
+LEA EDX, [xOZJfLFQI]
+CWD
+ret
+endp
+proc uaAOfwWXODsC
+MOV AX, AX
+call jHtFnqkI
+XCHG [ScTghaTVXUnJV], BH
+IMUL AX
+CMC
+NEG [QBDTNpVN]
+
+MOV EBX, EBX
+MOV EAX, 20
+XCHG [QUYpLNZrBUUm], ECX
+
+call oVjHwhAdKaA
+CMP [RxfBmAdCaqw], CL
+MOV AX, AX
+LEA ESI, [GlccMbEQbjt]
+call NbLQgcFlI, DWORD [VfdztiRgwtiYKC], EAX, EDX, EDI, DWORD [uHwOzZSpyZ]
+DEC [sIyIiXFei]
+
+
+ret
+endp
+proc bdiRiQIcDTn
+call CGEJUEhZLrI, DWORD [ikoFcsgiPPbfji]
+MOV EAX, 20
+
+MUL [OonnWNlOqIJJoq]
+RCR [odhRraGWG], 10
+CBW
+ROL [rFjbxOmMtqZRYj], 15
+MOV EAX, 20
+
+CWDE
+MOV DL, BL
+CMC
+LEA EDX, [qGzVfPjSXJ]
+CLC
+
+ROR [HqoYjIIw], 7
+LEA AX, [ikoFcsgiPPbfji]
+NOT AX
+MOV EAX, 20
+SAR [uzKXEtOkP], 27
+MOV EAX, 20
+ret
+endp
+proc fpRbYpteIXG , arg1
+sub esp, 4
+XCHG ESI, EBX
+MOV EAX, 20
+MOV AX, AX
+call fUnxQYhu, DWORD [HqoYjIIw], EBX, DWORD [VfdztiRgwtiYKC]
+IMUL DL
+CLD
+
+call MjCzfV
+call oVjHwhAdKaA
+CMP [KWSkBGWBSqf], AX
+call fkhisstsPy
+ret
+endp
+proc VNjpPZsjhvH
+NEG AX
+call VjpIma, EDI, EDX, ECX, EAX
+LEA AX, [wWCPCN]
+SAL [MhwByhcPkSHB], 8
+MOV AX, AX
+MOV AX, AX
+CLC
+call VjpIma, EDX, DWORD [PQXpOZEuMCCfD], EBX, ESI
+ret
+endp
+proc zqRcWtRnZZBQHm , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+
+NOT AX
+
+
+LEA AX, [SxSPIEp]
+CBW
+DEC AX
+MOV AX, AX
+INC [wJykFe]
+ret
+endp
+proc XudDogi ,arg1, arg2
+sub esp, 8
+NOT EDI
+SUB [cLMxJDARK], wJykFe
+call VNjpPZsjhvH
+NEG AX
+
+INC AX
+NOT [XzDGIndDU]
+ROL CH, 1
+NOT [OonnWNlOqIJJoq]
+
+NOT [LOMtUFLQm]
+LEA EBX, [cLMxJDARK]
+LEA AX, [MYBCRnlML]
+IMUL AX
+
+LEA AX, [MhwByhcPkSHB]
+
+DEC DL
+XCHG [xOZJfLFQI], EBX
+MOV AX, AX
+
+LEA EDX, [rnPpGuES]
+
+LEA ESI, [rFjbxOmMtqZRYj]
+ret
+endp
+proc rRxjqAzGy
+
+MOV ECX, EBX
+ROR EDX, 21
+NOT AH
+CMC
+
+
+
+ret
+endp
+proc KfkZcgJWcGsRsQ , arg1, arg2, arg3, arg4
+sub esp, 16
+MOV EDI, EDX
+call GSikAOA
+SAR [RxfBmAdCaqw], 1
+call fUnxQYhu, EDX, DWORD [QUYpLNZrBUUm], ECX
+MOV EAX, 20
+INC [sczACNd]
+NEG EBX
+IMUL ESI
+
+DEC [xXkPVdKBw]
+ret
+endp
+section '.idata' import data readable writeable
+library KERNEL32,'KERNEL32.DLL',\
+USER32, 'USER32.DLL'
+import KERNEL32,\
+ExitProcess, 'ExitProcess'
+import USER32,\
+MessageBox, 'MessageBoxA'

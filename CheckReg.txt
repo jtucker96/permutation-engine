@@ -1,0 +1,14 @@
+1 - eax
+2 - ebx
+3 - ecx
+4 - edx
+5 - esi
+6 - edi
+
+if 8-bit set, 
+1-2 = eax
+3-4 = ebx
+5-6 = ecx
+7-8 = edx
+
+if 16-bit set, then same as 32-bit

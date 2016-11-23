@@ -1,0 +1,4 @@
+BX
+BX CX
+BX CX DX
+BX DX

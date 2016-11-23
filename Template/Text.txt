@@ -1,0 +1,4 @@
+section '.code' executable readable writeable
+start:
+push 0
+invoke ExitProcess

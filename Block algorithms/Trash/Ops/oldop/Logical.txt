@@ -1,0 +1,7 @@
+XOR
+AND
+OR
+NOT
+NAND
+NOR
+XNOR

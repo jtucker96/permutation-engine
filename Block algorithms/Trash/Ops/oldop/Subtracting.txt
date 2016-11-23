@@ -1,0 +1,6 @@
+SUB
+DEC
+NEG
+LEA
+SBB
+DAS

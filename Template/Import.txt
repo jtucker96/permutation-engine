@@ -1,0 +1,4 @@
+section '.idata' import data readable writeable
+library KERNEL32,'KERNEL32.DLL'
+import KERNEL32,\
+ExitProcess, 'ExitProcess',\

@@ -1,0 +1,5 @@
+IMUL
+MUL
+LEA
+SHR
+SHL

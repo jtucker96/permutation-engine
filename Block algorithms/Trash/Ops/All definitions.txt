@@ -1,0 +1,66 @@
+http://courses.engr.illinois.edu/ece390/books/artofasm/CH06/CH06-4.html
+
+add [dest, source] - Add source by destination, store in source
+adc [dest, source] - Add source by destination, add extra 1 if carry flag set, store in source
+
+
+
+
+bsf [dest, source] - scans the bits, starting at bit 0, in the doubleword operand or the second word. If the bits are all zero, ZF is cleared. Otherwise, ZF is set and the bit index of the first set bit, found while scanning in the forward direction, is loaded into the destination register.
+bsr [dest, source]
+
+
+{	requre 16/32bit register
+bt   [source, index] Test a single bit. Its second operand specifies the bit index into the first operand. Bt copies the addressed bit into the carry flag.
+btc  [source, index] copy the addressed bit into the carry flag. However, these instructions also set, reset (clear), or complement (invert) the bit in the first operand after copying it to the carry flag. 
+btr  [source, index] This provides test and set, test and clear, and test and invert operations necessary for some concurrent algorithms.
+bts  [source, index] The bt, bts, btr, and btc instructions do not affect any flags other than the carry flag.
+}
+test [dest, source]
+
+
+
+The setcc instructions above simply test the flags without any other meaning attached to the operation. You could, for example, use setc to check the carry flag after a shift, rotate, bit test, or arithmetic operation. Likewise, you could use setnz instruction after a test instruction to check the result.
+
+setcc (8-bit reg ONLY)
+{
+SETC []
+SETNC[]
+SETZ[]
+SETNZ[]
+SETS[]
+SETNS[]
+SETO[]
+SETNO[]
+SETP[]
+SETPE[]
+SETNP[]
+SETPO[]
+}
+
+movs  []move string
+lods  []load strnig element into the accumulator
+stos  []store accumulator into string element
+scas  []scan string and check for match against the value in accumulator
+cmps  []compare two strings
+rep   []repeat string operation
+repz  []repeat while zero
+repe  []repeat while equal
+repnz []repeat while not zero
+repne []repeat while not equal
+
+shl [The sar instruction shifts all the bits in the destination operand to the left one bit, replicating the H.O bit]
+shr []
+16/32 bit
+{
+shld[]The shld and shrd instructions provide double precision shift left and right operations, respectively
+shlr[]The shld and shrd instructions provide double precision shift left and right operations, respectively
+}
+sar [The sar instruction shifts all the bits in the destination operand to the right one bit, replicating the H.O bit]
+sal []
+
+The rotate instructions shift the bits around, just like the shift instructions, except the bits shifted out of the operand by the rotate instructions recirculate through the operand. They include rcl (rotate through carry left), rcr (rotate through carry right), rol (rotate left), and ror (rotate right). These instructions all take the forms:
+rcl[] The rcl (rotate through carry left), as its name implies, rotates bits to the left, through the carry flag, and back into bit zero on the right:
+rcr[]The rcr (rotate through carry right) instruction is the complement to the rcl instruction. It shifts its bits right through the carry flag and back into the H.O. bit:
+rol[]The rol instruction is similar to the rcl instruction in that it rotates its operand to the left the specified number of bits. The major difference is that rol shifts its operand's H.O. bit, rather than the carry, into bit zero. Rol also copies the output of the H.O. bit into the carry flag:
+ror[]The ror instruction relates to the rcr instruction in much the same way that the rol instruction relates to rcl. That is, it is almost the same operation other than the source of the input bit to the operand. Rather than shifting the previous carry flag into the H.O. bit of the destination operation, ror shifts bit zero into the H.O. bit:

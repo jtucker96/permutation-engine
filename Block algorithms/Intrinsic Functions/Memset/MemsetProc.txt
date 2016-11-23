@@ -1,0 +1,11 @@
+ proc memset, m_pTarget, uiValue, m_uiLength
+        mov esi, [uiValue]
+        mov edi, [m_pTarget]
+        mov ecx, [m_uiLength]
+    memsetloop:
+        mov dword [edi], esi
+        inc edi
+        dec ecx
+        cmp ecx, 0
+        jne memsetloop
+ 	jmp completed

@@ -1,0 +1,653 @@
+format PE CONSOLE 4.0
+entry start
+include 'win32ax.inc'
+section '.data' readable writeable
+section '.code' executable readable writeable
+start:
+stdcall OOXXHKZGaOWE
+
+push 0
+invoke ExitProcess
+proc KSYUIJTQYDTPP
+MOV SI, BX
+NEG ESI
+POP CH
+DIV CL
+MUL AX
+NEG DI
+INC ECX
+ret
+endp
+proc OOXXHKZGaOWE
+IMUL BX
+
+POP BX
+IMUL CL
+LEA SI, DI
+NEG EDI
+CLI
+MOV EDX, EAX
+CWDE
+
+XCHG ESI, EAX
+PUSH EAX
+
+LEA BX, DX
+NEG DL
+RCR ESI, 1
+IDIV SI
+DIV BX
+PUSH AX
+LEA EAX, EAX
+
+
+NOT CX
+STI
+POP DX
+MOV DH, AH
+CLI
+DEC DI
+POP AL
+
+ret
+endp
+proc DCMRMDNIUQR , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+NOT ESI
+PUSH BX
+CWD
+NOT DH
+NEG AH
+MOV DX, CX
+ROL EAX, 4
+XCHG BH, DH
+XCHG CL, BL
+PUSH AL
+POP ECX
+
+ret
+endp
+proc RMOIHXY , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+CLC
+POP AL
+NOT EAX
+LEA ECX, ECX
+DIV BL
+INC AX
+DIV EBX
+NOT EDX
+SAR DH, 4
+POP AL
+XCHG ESI, ESI
+MUL CL
+NOT CL
+INC ESI
+ret
+endp
+proc BANKIRUMaTBR , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+POP SI
+
+POP DX
+NOT EAX
+LEA EBX, EAX
+CWDE
+STC
+
+POP BL
+
+POP SI
+POP DH
+RSB EDI, EBX
+MUL DI
+CLI
+PUSH CH
+PUSH BH
+CWD
+IMUL BL
+POPA
+NOT CX
+POPA
+ret
+endp
+proc QLNJAA , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+SAL DH, 2
+CMP SI, 13
+LEA ECX, EDI
+SUB SI, BX
+INC CL
+POPF
+STC
+RCR AL, 3
+LEA EDX, EAX
+NEG SI
+SAL EBX, 12
+ret
+endp
+proc GGGHOOZBR , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+SAR ECX, 2
+
+ADD AH, BH
+SAR EDI, 10
+DEC AH
+LEA EDX, ESI
+LEA AX, BX
+ret
+endp
+proc HWWBHL , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+CMC
+NEG BX
+CWD
+IMUL CX
+IMUL SI
+XCHG DL, BL
+ret
+endp
+proc BLMDSQXXG , arg1, arg2, arg3, arg4
+sub esp, 16
+IDIV CX
+INC EAX
+ret
+endp
+proc RXVYYFJK , arg1, arg2, arg3, arg4
+sub esp, 16
+LEA ESI, EDX
+NEG DL
+XCHG EBX, ESI
+NOT DH
+XCHG DX, DX
+PUSH DL
+MUL CL
+NEG CL
+CWD
+PUSH SI
+IDIV CX
+NEG EAX
+PUSH DL
+POPF
+IMUL AL
+LEA ESI, EAX
+LEA DX, CX
+
+ret
+endp
+proc LUYYZZOaRK , arg1, arg2, arg3, arg4
+sub esp, 16
+STI
+
+LEA ESI, EBX
+XCHG EDI, EDX
+XADD EDX, EAX
+POPA
+IDIV DI
+
+XCHG BH, AL
+RCR EDX, 28
+INC CL
+MOV ESI, ESI
+MOV AL, AL
+CMC
+NEG ECX
+
+XCHG AX, SI
+XCHG BL, CL
+NEG DI
+DIV DH
+XCHG EDX, EAX
+MOV EAX, ECX
+MUL DI
+LEA AX, BX
+
+CLI
+MOV ECX, EDI
+DEC AH
+MOV SI, CX
+ret
+endp
+proc aEFaEYECJaS , arg1, arg2, arg3, arg4
+sub esp, 16
+IMUL EDX
+STC
+NEG SI
+ADC AH, CL
+XCHG BX, DI
+POP DH
+XADD DI, BX
+NOT AL
+DEC EDI
+LEA EAX, ESI
+CBW
+INC ECX
+PUSH EAX
+NOT EDX
+SAR EDX, 21
+ADC AH, CL
+NEG CL
+
+CLD
+MOV ECX, EDX
+ADC AL, AL
+LEA CX, CX
+LEA ECX, EAX
+NOT CH
+XADD AH, DL
+POP AL
+
+ret
+endp
+proc XJIJCRBAGDa , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+
+POP BX
+SUB CH, CL
+LEA EAX, EAX
+NOT BX
+
+ret
+endp
+proc TLJKBE , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+STI
+NOT SI
+ROL AX, 10
+LEA EDX, EBX
+LEA EDI, ECX
+LEA SI, BX
+
+NOT EAX
+POPF
+IMUL CL
+DEC DL
+POP DI
+PUSH EBX
+POP BX
+LEA SI, DI
+LEA EAX, ECX
+ADD BH, AH
+ADC EBX, EAX
+MOV DX, BX
+ret
+endp
+proc OOXXFD , arg1, arg2, arg3, arg4
+sub esp, 16
+PUSH ESI
+
+PUSH BL
+DIV DH
+
+MUL AX
+LEA ECX, ESI
+MOV BL, CL
+MOV CL, AL
+LEA DX, DI
+POP EDX
+LEA BX, DI
+
+INC BX
+NEG EAX
+NOT BL
+MUL AL
+ret
+endp
+proc RPNNYQK , arg1, arg2, arg3, arg4
+sub esp, 16
+POP BH
+NEG ECX
+CBW
+SBB BH, AH
+MOV DI, DI
+CMC
+XCHG AH, DL
+RSB BL, CH
+IMUL AH
+CLC
+
+POP ECX
+NOT EDX
+LEA CX, CX
+NEG AX
+
+SAL CH, 2
+POP BL
+
+NOT CX
+STD
+
+ADC AX, DI
+ret
+endp
+proc aERCFPUGIROLIV , arg1, arg2, arg3, arg4
+sub esp, 16
+NOT EDX
+IDIV BL
+POPF
+
+INC BL
+CMC
+ROL BX, 10
+NOT AX
+POPA
+
+LEA EDI, EAX
+
+POPA
+ret
+endp
+proc YWNZGRS , arg1, arg2, arg3, arg4
+sub esp, 16
+PUSH CX
+
+LEA EDX, EDI
+MUL ESI
+MOV DI, SI
+LEA SI, SI
+SAR DX, 9
+LEA EDI, EBX
+PUSH BH
+POPF
+SUB EAX, ESI
+
+IDIV EAX
+ADC DH, CL
+ROR EDI, 24
+ret
+endp
+proc UXWTSFKBRETSWR , arg1
+sub esp, 4
+MOV CX, DX
+SBB EBX, EDX
+PUSH CL
+LEA DI, DI
+INC DH
+NOT ECX
+MOV EDI, ECX
+CWDE
+CLC
+POP EAX
+PUSH DL
+
+MUL CH
+LEA BX, SI
+PUSH ESI
+MUL BL
+MOV AX, AX
+LEA EDX, ESI
+
+LEA CX, DX
+XCHG DX, SI
+XCHG AX, DI
+LEA SI, CX
+NOT CL
+ret
+endp
+proc LJPNFVUNKYANG , arg1, arg2, arg3
+sub esp, 12
+ADD SI, DI
+SBB DH, AH
+NEG DH
+PUSH ESI
+PUSH EBX
+CLD
+
+
+POPA
+STD
+CLI
+SAL DI, 14
+SAR EDX, 20
+XCHG AL, CL
+DEC DX
+ret
+endp
+proc AAOPILZCSCH , arg1, arg2, arg3
+sub esp, 12
+RSB EBX, EAX
+LEA ECX, EAX
+CBW
+
+XCHG BX, DX
+LEA ECX, EBX
+PUSH DX
+CLD
+INC AL
+INC EDX
+POP EAX
+ADD BL, DL
+SAR CL, 1
+XCHG DH, BL
+
+LEA EAX, ECX
+XCHG ECX, ECX
+LEA SI, AX
+XCHG EAX, EAX
+DEC AH
+NEG EDX
+DEC BX
+POP EBX
+NOT ESI
+ret
+endp
+proc GWVEITKSMI , arg1, arg2, arg3
+sub esp, 12
+IDIV CH
+NEG EAX
+
+CLD
+NEG DL
+LEA DI, DI
+MOV EDI, EBX
+MOV DI, DI
+MUL AL
+IDIV DX
+POP ESI
+LEA DI, AX
+LEA EDI, EBX
+SBB BL, AL
+NEG EBX
+STD
+DEC EDI
+LEA DX, AX
+DIV EAX
+
+SBB BH, BL
+
+SAL CL, 6
+LEA DI, BX
+STC
+XCHG AL, CL
+LEA EDI, ECX
+
+
+ADC BH, DH
+NOT EDX
+XCHG CX, BX
+NOT EAX
+MOV DX, AX
+DEC ECX
+SBB AL, BL
+ret
+endp
+proc WZNCVFUL , arg1, arg2, arg3
+sub esp, 12
+INC AX
+LEA EBX, EBX
+SAL BL, 4
+POP DI
+NOT ESI
+LEA EDI, ECX
+
+SUB CL, BL
+INC CX
+CMP CH, 4
+CMP AX, 12
+NEG AX
+LEA EBX, ESI
+
+LEA EAX, EBX
+ADD DH, CL
+LEA EBX, EDI
+SUB DL, CH
+ret
+endp
+proc MFWUaIOaLMQ , arg1, arg2, arg3
+sub esp, 12
+LEA SI, CX
+NOT CX
+RSB EDX, EAX
+STD
+LEA ESI, EDI
+DIV AL
+LEA EAX, ESI
+NOT AL
+LEA DI, SI
+XCHG DX, DI
+IDIV ESI
+
+RCL BH, 1
+MOV BL, CL
+STC
+LEA EDI, EBX
+DIV DI
+INC BH
+ADC BH, CH
+MUL DX
+MOV DH, BL
+NOT DH
+INC ESI
+LEA EDI, ECX
+NEG ECX
+
+
+XCHG AX, BX
+DEC SI
+ret
+endp
+proc NKPMaK , arg1, arg2, arg3, arg4, arg5
+sub esp, 20
+
+DIV AX
+PUSH AX
+NOT BL
+XCHG SI, SI
+XCHG CL, BL
+LEA CX, AX
+LEA EBX, EDX
+POPF
+CLI
+NOT EDX
+CMP EAX, 8
+POPF
+NOT CX
+LEA EAX, ECX
+LEA DX, AX
+ret
+endp
+proc UHJEUTGKZ ,arg1, arg2
+sub esp, 8
+INC DH
+LEA DX, BX
+CMC
+POP AX
+
+XCHG AX, CX
+PUSH EBX
+MOV DI, SI
+NOT CL
+SAL AH, 4
+
+ret
+endp
+proc RRKOVCDULLWIPB ,arg1, arg2
+sub esp, 8
+
+PUSH SI
+
+NEG AX
+PUSH AH
+NEG EDI
+XCHG SI, CX
+
+
+ret
+endp
+proc LaLUaIaTLSaCZ , arg1, arg2, arg3
+sub esp, 12
+CLI
+LEA ECX, ECX
+DIV CH
+STI
+MOV DH, CH
+PUSH DX
+PUSH BX
+
+POP DH
+ret
+endp
+proc HAFOXX , arg1, arg2, arg3
+sub esp, 12
+NOT DI
+PUSH DI
+ROL ESI, 16
+IMUL DL
+NOT CH
+MOV AL, DH
+LEA AX, DI
+XCHG EDX, EBX
+CBW
+
+LEA DX, BX
+
+DIV CL
+NOT EDX
+DEC DI
+ret
+endp
+proc TPPMFUKMTC ,arg1, arg2
+sub esp, 8
+XCHG EBX, ESI
+PUSH ECX
+LEA ESI, EAX
+POP AL
+POP BH
+NOT CH
+POP CX
+CWD
+XCHG EDI, EAX
+INC EAX
+STI
+LEA EDX, EBX
+POP BH
+SBB ESI, ECX
+
+ret
+endp
+proc OFJAQBHARYNOC , arg1
+sub esp, 4
+XCHG DX, CX
+PUSH AX
+
+NOT AX
+ret
+endp
+proc AXPBXFALSCHBC , arg1
+sub esp, 4
+PUSH DH
+NEG AX
+LEA DI, SI
+ROL CL, 6
+ret
+endp
+proc CQJKJWMDEPU , arg1
+sub esp, 4
+
+INC SI
+ret
+endp
+section '.idata' import data readable writeable
+library KERNEL32,'KERNEL32.DLL'
+import KERNEL32,\
+ExitProcess, 'ExitProcess'  

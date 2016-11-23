@@ -1,0 +1,17 @@
+CheckRemoteDebuggerPresent
+ContinueDebugEvent
+DebugActiveProcess
+DebugActiveProcessStop
+DebugBreak
+DebugBreakProcess
+DebugSetProcesKillOnExit
+FatalExit
+FlushInstructionCache
+GetThreadContext
+GetThreadSelectorEntry
+IsDebuggerPresent
+OutputDebugString
+ReadProcessMemory
+SetThreadContext
+WaitForDebugEvent
+WriteProcessMemory

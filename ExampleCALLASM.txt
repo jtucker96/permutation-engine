@@ -1,0 +1,23 @@
+/*
+FOO needs to be called as a subroutine. To do that, invert the logic of your jump, and use the CALL instruction to call FOO. Put a RET instruction at the end of the FOO routine.
+
+TESTIT PROC
+    CMP AX,1
+    JLE  BAR
+    CALL FOO
+BAR:
+    RET
+TESTIT ENDP
+
+FOO:
+    ;do something
+    RET
+END FOO
+
+MAIN:
+    CALL TESTIT
+    .EXIT
+END MAIN
+
+END
+*/
